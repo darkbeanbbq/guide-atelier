@@ -1,6 +1,6 @@
 # Programmation de l'atelier
 
-[Retour à l'accueil](file:///home/darkbean/Téléchargements/guide 0.3.0b html/accueil.html)
+[Retour à l'accueil](README.md)
 
 L'atelier de création est ouvert et accèssible tout les jours. Les **mercredis** et **samedis** c'est activité atelier !
 
