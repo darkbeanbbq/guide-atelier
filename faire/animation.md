@@ -1,10 +1,10 @@
 # Dessin animé sur ordinateur
 
-[retour à la liste des tutos](file:///home/darkbean/Téléchargements/guide 0.3.0b html/faire.html)
+[retour à la liste des tutos](faire.md)
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation loop 4.gif)
+![img](faire/img/dessin anime/krita animation loop 4.gif)
 
 Le dessin animé c'est juste des images qui défilent vite !
 
@@ -26,7 +26,7 @@ Ici nous allons animer une balle qui rebondit en boucle. **Mais n'hésitez pas �
 
 Partir d'une idée simple à animer et faire un croquis des différentes étapes.
 
-![--croquis animation--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/animation croquis.jpg)
+![--croquis animation--](faire/img/dessin anime/animation croquis.jpg)
 
  
 
@@ -34,7 +34,7 @@ Partir d'une idée simple à animer et faire un croquis des différentes étapes
 
 Si ce n'est pas déjà fait, passer l'espace de travail de Krita en mode `Animation` (en haut à droite).
 
-![--Krita espace de travail : Animation--](file:///img/dessin anime/krita espace travail animation entoure.png)
+![--Krita espace de travail : Animation--](faire/img/dessin anime/krita espace travail animation entoure.png)
 
  
 
@@ -42,13 +42,13 @@ Si ce n'est pas déjà fait, passer l'espace de travail de Krita en mode `Animat
 
 Dans  notre cas le sol va rester le même pendant toute l'animation, c'est la  balle qui va changer. On va donc les dessiner sur des claques  différents.
 
-![--dessin calque 2 : sol--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation calque sol.png)
+![--dessin calque 2 : sol--](faire/img/dessin anime/krita animation calque sol.png)
 
  
 
 On va desormais **ajouter un autre calque** en cliquant sur le bouton `+`. C'est sur celui ci que nous allons animer notre balle. Bien s'assurer que c'est le calque sélectionné.
 
-![--ajouter calque 3--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation calque ajouter.PNG)
+![--ajouter calque 3--](faire/img/dessin anime/krita animation calque ajouter.PNG)
 
  
 
@@ -60,23 +60,23 @@ Pour ajouter une image il faut faire un *clic droit* et sélectionner `Create Bl
 
 Si on a besoin de la déplacer il suffit de maintenir le clic dessus et de la glisser.
 
-![--ajouter une image--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation ajouter image.png)
+![--ajouter une image--](faire/img/dessin anime/krita animation ajouter image.png)
 
 Dessiner la première image : la balle à son sommet.
 
-![--image 0--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 0.png)
+![--image 0--](faire/img/dessin anime/krita animation image 0.png)
 
  
 
 On  va créer la deuxième image clé : l'impacte de la balle sur le sol. Ça  n'arrive pas directement après la première image, alors on se donne de  la place et on la crée un peu plus loin.
 
-![--image 9 timeline--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 9 timeline.png)
+![--image 9 timeline--](faire/img/dessin anime/krita animation image 9 timeline.png)
 
  
 
 Activer la pelure d'oignon (ampoule allumée) dans la *timeline*.
 
-![--activer pelure d'oignon--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 9 oignon.png)
+![--activer pelure d'oignon--](faire/img/dessin anime/krita animation image 9 oignon.png)
 
  
 
@@ -84,17 +84,17 @@ La **pelure d'oignon** est le nom que l'on donne à cette option qui nous **perm
 
 Ici ça nous permet de pouvoir bien positionner l'image de l'impacte directement sous l'image du sommet.
 
-![--image 9--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 9.PNG)
+![--image 9--](faire/img/dessin anime/krita animation image 9.PNG)
 
  
 
 Pour  terminer ce premier passage de création d'images clées nous allons  dessiner la dernière image : le moment juste avant que la balle  atteingre son sommet.
 
-![--création image 17 dans la timeline--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 17 timeline.PNG)
+![--création image 17 dans la timeline--](faire/img/dessin anime/krita animation image 17 timeline.PNG)
 
  
 
-![--image 17--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 17.PNG)
+![--image 17--](faire/img/dessin anime/krita animation image 17.PNG)
 
  
 
@@ -102,13 +102,13 @@ On va donc pouvoir voir à quoi ressemble l'animation pour le moment. Dans le mo
 
 Pour cet exemple nous allons mettre 18.
 
-![--animation fin--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation derniere image.gif)
+![--animation fin--](faire/img/dessin anime/krita animation derniere image.gif)
 
  
 
 Désactiver la pelure d'oignon et jouer l'animation en cliquant sur le bouton *play* afin de voir le premier résultat.
 
-![--premier play animation--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation loop 1.gif)
+![--premier play animation--](faire/img/dessin anime/krita animation loop 1.gif)
 
  
 
@@ -122,13 +122,13 @@ Si besoin paramètrer la pelure d'oignon en cliquant sur le bouton oignon en bas
 
 On peut choisir le nombre, la couleur et l'opacité des images qu'on veut voit avant et après l'image sélectionnée.
 
-![--options de pelure d'oignon--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation image 4 options oignon.png)
+![--options de pelure d'oignon--](faire/img/dessin anime/krita animation image 4 options oignon.png)
 
  
 
 Après  avoir ajouté une autre image avant l'impact et une après le rebond on a  désormais une belle petite animation à partir de ces 6 images.
 
-![--animation 2--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation loop 2.gif)
+![--animation 2--](faire/img/dessin anime/krita animation loop 2.gif)
 
  
 
@@ -140,17 +140,17 @@ Cette étape est plus simple que la précédente  car l'essentiel est déjà des
 
  
 
-![--images intermédiaires--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation images intermediaires.PNG)
+![--images intermédiaires--](faire/img/dessin anime/krita animation images intermediaires.PNG)
 
  
 
 Voici  en bleu les images clées et en orange les images intermédiares pour  avoir une meilleur idée de ce qu'on a ajouté. On peut ensuite les  déplacées ou les ajuster voir même refaire les dessins pour un meilleur  résultat lors de l'animation.
 
-![--images intermédiaires timeline--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation images intermediaires timeline.PNG)
+![--images intermédiaires timeline--](faire/img/dessin anime/krita animation images intermediaires timeline.PNG)
 
  
 
-![--animation 3--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation loop 3.gif)
+![--animation 3--](faire/img/dessin anime/krita animation loop 3.gif)
 
  
 
@@ -160,7 +160,7 @@ Une fois satisfait de son animation on peut y ajouter de la couleur ou des déta
 
 Pour cette animation de rebond ce serait bien d'avoir un 'splash' lors de l'impacte.
 
-![--séquence d'image animation splash--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation splash.PNG)
+![--séquence d'image animation splash--](faire/img/dessin anime/krita animation splash.PNG)
 
  
 
@@ -170,7 +170,7 @@ Il  y a d'autres détails que l'on peut essayer comme des lignes de vitesse  (lo
 
  
 
-![--animation 4--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation loop 4.gif)
+![--animation 4--](faire/img/dessin anime/krita animation loop 4.gif)
 
  
 
