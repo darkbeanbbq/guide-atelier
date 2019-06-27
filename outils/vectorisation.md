@@ -1,8 +1,8 @@
 # Vectoriser une image dans Inkscape
 
-[retour au guide des outils](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils.html)
+[retour au guide des outils](outils.md)
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
 
  
 
@@ -16,9 +16,9 @@ Glisser-déposer l'image sur la plan de travail ou l'importer via `ficher > impo
 
 Une fenêtre apparait, cliquer sur valider.
 
-![--importation image--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape importation.png)
+![--importation image--](outils/img/inkscape/inkscape importation.png)
 
-![--importation--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape importation2.png)
+![--importation--](outils/img/inkscape/inkscape importation2.png)
 
  
 
@@ -26,19 +26,19 @@ Une fenêtre apparait, cliquer sur valider.
 
 Sélectionner l'image à vectoriser et aller dans `Chemin` puis `Vectoriser un objet matriciel...` (qui se traduit en "transformer une image faite de pixels en courbes").
 
-![--vectorisation fenêtre--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape vectorisation 1.png)
+![--vectorisation fenêtre--](outils/img/inkscape/inkscape vectorisation 1.png)
 
  
 
 Une fenêtre apparait. Il se peut qu'on ne voit rien comme ci-dessus.
 
-![--vectorisation fenêtre--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape vectorisation 2.png)
+![--vectorisation fenêtre--](outils/img/inkscape/inkscape vectorisation 2.png)
 
  
 
 Cocher `Aperçu en direct` ou cliquer sur `Mettre à jour` pour voir un aperçu du résultat de la vectorisation. (Si besoin mettre la fenêtre en plein écran)
 
-![--vectorisation seuil de luminosité--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape vectorisation 3.png)
+![--vectorisation seuil de luminosité--](outils/img/inkscape/inkscape vectorisation 3.png)
 
  
 
@@ -56,7 +56,7 @@ Le faire varier jusqu'à avoir un résultat qui convient. (souvent entre 0,700 e
 
 **Remarque**  : un dessin bien contrasté (feutre noir sur feuille blanche) donnera de  meilleurs résultats lors de la vectorisation qu'un dessin trop clair  (feutre jaune sur feuille blanche).
 
-![--vectorisation seuil de luminosité--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape vectorisation 4.png)
+![--vectorisation seuil de luminosité--](outils/img/inkscape/inkscape vectorisation 4.png)
 
  
 
@@ -66,9 +66,9 @@ On  se retrouve avec le tracé vectorisé de notre image et elle en dessous.  Il
 
 Prendre le tracé (en noir) et le déplacer légerement avec l'outil de sélection (touche `F1`) pour pouvoir voir et supprimer l'image d'origine.
 
-![--image vectorisée--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape vectorisation 5.PNG)
+![--image vectorisée--](outils/img/inkscape/inkscape vectorisation 5.png)
 
-![--image vectoriée--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape vectorisation 6.PNG)
+![--image vectoriée--](outils/img/inkscape/inkscape vectorisation 6.png)
 
  
 
@@ -82,11 +82,11 @@ La vectorisation n'est pas toujours parfaite, c'est pour ça que l'on doit souve
 
 Sélectionner le tracé et utiliser l'outil d'`édition de noeuds` (touche `F2`) pour supprimer les imperfections et éléments vectorisés que nous ne voulons pas.
 
-![--outil edition de noeuds--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape nettoyage 1.PNG)
+![--outil edition de noeuds--](outils/img/inkscape/inkscape nettoyage 1.png)
 
 Sélectionner une zone de points et les supprimer avec la touche `suppr` ou `retour arrière`.
 
-![--sélection de zone noeuds à supprimer--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape nettoyage 2.PNG)
+![--sélection de zone noeuds à supprimer--](outils/img/inkscape/inkscape nettoyage 2.png)
 
  
 
@@ -94,7 +94,7 @@ Des  'formes étranges' peuvent apparaitre. Ce n'est que le tracé qui tente  de
 
 Si besoin, pour réajuster le tracé, utiliser les petits cercles au bout des lignes pour 'tendre' ou 'détendre' les courbes.
 
-![--suppression noeuds explosion forme--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/inkscape/inkscape nettoyage 23.PNG)
+![--suppression noeuds explosion forme--](outils/img/inkscape/inkscape nettoyage 23.png)
 
  
 
@@ -120,4 +120,4 @@ Pour sauvegarder ou exporter son travail pour la découpe il suffit d'aller dans
 
  
 
-Pour savoir comment découper sa création voir le [guide de la découpeuse](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils/decoupeuse.html).
+Pour savoir comment découper sa création voir le [guide de la découpeuse](outils/decoupeuse.md).
