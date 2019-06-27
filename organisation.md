@@ -1,8 +1,8 @@
 # Règles et organisation de l'atelier
 
-[Retour à l'accueil](file:///home/darkbean/Téléchargements/guide 0.3.0b html/accueil.html)
+[Retour à l'accueil](index.md)
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
 
 L'atelier  est un espace de création accessible à tous. Pour que l'on puisse bien  travailler ensemble il y a quelques consignes à suivre et une  organisation à connaître.
 
@@ -22,7 +22,7 @@ L'atelier de création étant actuellement dans l'espace adolescent il ouvre aux
 
 **samedi** : *atelier*
 
-Pour consulter la programmation des ateliers des mercredi et samedi voir : [programmation de l'atelier](file:///home/darkbean/Téléchargements/guide 0.3.0b html/organisation.html).
+Pour consulter la programmation des ateliers des mercredi et samedi voir : [programmation de l'atelier](organisation.md).
 
  
 
@@ -40,7 +40,7 @@ Et **essayez et réessayez !**  Ça peut  paraitre bête comme règle, mais si v
 
 ## Organisation de l'espace
 
-![--plan de l'atelier--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/organisation.html)
+![--plan de l'atelier--](organisation.md)
 
 Suite au déménagement récent le l'organisation du rangement est en reconstruction.
 
@@ -52,7 +52,7 @@ L'affichage sur le mur donne certaines informations comme comment scanner et les
 
 #### Permanent
 
-2 Ordinateurs (voir la liste [des logiciels disponible](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils/liste logiciels.html))
+2 Ordinateurs (voir la liste [des logiciels disponible](outils/liste logiciels.md))
 
 Scanner
 
