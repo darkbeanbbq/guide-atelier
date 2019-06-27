@@ -1,6 +1,6 @@
 # Guide des outils
 
-[Retour à l'accueil](README.md)
+[Retour à l'accueil](index.md)
 
 À  l'atelier il y a de nombreux outils, que ce soit des machines, des  logiciels, du matériel de bricolage ou de simples instruments de  dessins. Tous demandent de bien les connaître pour savoir correctement  les utiliser. Dans ce guide vous trouverez tout ce qu'il vous faut pour  apprendre à vous en servir.
 
