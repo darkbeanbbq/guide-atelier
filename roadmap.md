@@ -1,6 +1,6 @@
 # Feuille de route du développement du guide de l'atelier
 
-[retour à l'accueil](README.md)
+[retour à l'accueil](index.md)
 
 La  feuille de route sert à rendre visible les tâches faites et celles  qu'il reste à faire pour la construction du guide de l'atelier.
 
