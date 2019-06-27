@@ -1,6 +1,6 @@
 # Programmation de l'atelier
 
-[Retour à l'accueil](README.md)
+[Retour à l'accueil](index.md)
 
 L'atelier de création est ouvert et accèssible tout les jours. Les **mercredis** et **samedis** c'est activité atelier !
 
