@@ -1,10 +1,10 @@
 # Guide d'utilisation de la découpeuse
 
-[retour au guide des outils](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils.html)
+[retour au guide des outils](outils.md)
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/decoupeuse.html)
+![img](outils/decoupeuse.md)
 
 Tout pour savoir comment utiliser la découpeuse !
 
@@ -22,7 +22,7 @@ Tout pour savoir comment utiliser la découpeuse !
 
  
 
-Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils/vectorisation.html).
+Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation](outils/vectorisation.md).
 
  
 
@@ -32,7 +32,7 @@ Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation]
 
 Importer le fichier `.svg`  dans DrawCut en le glissant-déposant dans l'espace de travail et re-cliquer pour valider.
 
-![gif glisser-deposer fichier dans DrawCut](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/drawcut gif glisser deposer fichier.gif)
+![gif glisser-deposer fichier dans DrawCut](outils/img/decoupeuse/drawcut gif glisser deposer fichier.gif)
 
  
 
@@ -42,13 +42,13 @@ Importer le fichier `.svg`  dans DrawCut en le glissant-déposant dans l'espace 
 
 Sélectionner le contenu à découper et définir sa dimension en millimètres dans la barre de menu.
 
-![dimension dans interface DrawCut](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/decoupeuse drawcut dimension.png)
+![dimension dans interface DrawCut](outils/img/decoupeuse/decoupeuse drawcut dimension.png)
 
  
 
 Ou redimensionner directement en utilisant le curseur. Bien retenir les dimensions.
 
-![gif dimension](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/drawcut gif dimension.gif)
+![gif dimension](outils/img/decoupeuse/drawcut gif dimension.gif)
 
  
 
@@ -56,9 +56,9 @@ Ou redimensionner directement en utilisant le curseur. Bien retenir les dimensio
 
 Modifier son orientation si besoin.
 
-![orientation dans interface DrawCut](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/decoupeuse drawcut rotation.png)
+![orientation dans interface DrawCut](outils/img/decoupeuse/decoupeuse drawcut rotation.png)
 
-![gif rotation fichier](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/drawcut gif rotation.gif)
+![gif rotation fichier](outils/img/decoupeuse/drawcut gif rotation.gif)
 
  
 
@@ -68,7 +68,7 @@ Une fois le fichier bien préparé il reste encore quelques étapes avant de lan
 
 Il  faut s'assurer que tout les réglages au niveau de la machine soit fait  en fonction du type de découpe que l'on souhaite faire : calage du  médium à découper, force et vitesse de découpe et le positionnement de  la lame.
 
-![interface du decoupeuse Secabo C30 IV](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/decoupeuse interface.jpg)
+![interface du decoupeuse Secabo C30 IV](outils/img/decoupeuse/decoupeuse interface.jpg)
 
  
 
@@ -87,7 +87,7 @@ Tirer le levier vers le haut et insérer le morceau de vinyle. Placer le de mani
 
 Quand tout est bien calé, redescendre le levier pour bloquer le vinyle en place.
 
-![calage sous les rouleaux](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/decoupeuse rouleaux.jpg)
+![calage sous les rouleaux](outils/img/decoupeuse/decoupeuse rouleaux.jpg)
 
  
 
@@ -134,13 +134,13 @@ Si il y a des problèmes lors de la découpe du papier, réajuster les paramètr
 
 La  découpe du fichier va partir de son coin inférieur droit, ainsi il faut  positionner la lame sur le coin inféreur droit du vinyle ou de la  feuille.
 
-![lame dans le coin du vinyle](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/decoupeuse positionnement lame.jpg)
+![lame dans le coin du vinyle](outils/img/decoupeuse/decoupeuse positionnement lame.jpg)
 
  
 
 Appuyer sur le bouton `On/Off Line` et utiliser les 4 boutons-flèches pour positionner la lame. Appuyer sur `Enter` pour valider.
 
-![bouton positionnement lame](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/decoupeuse/decoupeuse move00.jpg)
+![bouton positionnement lame](outils/img/decoupeuse/decoupeuse move00.jpg)
 
  
 
@@ -152,7 +152,7 @@ Une fois le fichier bien préparé et les réglages de la machine bien au point 
 
 Afin  de s'assurer que la taille de la zone à découper est bonne et que les  réglages sont bons on procède à un test de la zone. Dans DrawCut  sélectionner le bouton découpe (la lame) et cliquer sur `tester la zone`.
 
-![--photo interface de découpe--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/decoupeuse.html)
+![--photo interface de découpe--]
 
  
 
