@@ -1,10 +1,10 @@
 # Tinkercad
 
-[retour au guide des outils](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils.html)
+[retour au guide des outils](outils.md)
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
 
-![--image tinkercad--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/outils/tinkercad.png)
+![--image tinkercad--](imgplaceholder/outils/tinkercad.png)
 
 Tinkercad  est un logiciel de modélisation 3D simple.  Avec des formes basiques  qu'on va pouvoir assembler pour construire des formes plus complexe.
 
@@ -28,13 +28,13 @@ Déroulement d'un projet de modélisation :
 
 Pour poser une forme sur le plan de construction il suffit d'aller dans le menu de droite et de la glisser-déposer.
 
-![--poser une forme--](file:///img/tinkercad/tinkercad poser objet.png)
+![--poser une forme--](img/tinkercad/tinkercad poser objet.png)
 
  
 
 En  la selectionnant on aperçoit ses paramètres que l'on peut modifier si  on le souhaite. (C'est n'est souvent pas nécessaire tant qu'on a pas  compris les bases du logiciel)
 
-![--paramètres de forme--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad parametres objet.PNG)
+![--paramètres de forme--](img/tinkercad/tinkercad parametres objet.png)
 
  
 
@@ -42,13 +42,13 @@ En  la selectionnant on aperçoit ses paramètres que l'on peut modifier si  on 
 
 Pour  déplacer une forme sur le plan de construction, de gauche et à droite  (axe X) ou en avant et en arrière (axe Y) il suffit la sélectionner et  de maintenir le clic. On peut également utiliser les flèches ou en  saisir un chiffre dans les cases qui apparaissent.
 
-![--deplacer forme X et Y--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad deplacer objet xy.PNG)
+![--deplacer forme X et Y--](outils/img/tinkercad/tinkercad deplacer objet xy.png)
 
  
 
 Pour la déplacer de haut en bas (axe Z), sélectionner la petite flèche noir :
 
-![--déplacer objet Z--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad deplacer objet z.PNG)
+![--déplacer objet Z--](outils/img/tinkercad/tinkercad deplacer objet z.png)
 
  
 
@@ -58,11 +58,11 @@ Les  formes que l'on place sur le plan de travail peuvent être  redimensionner.
 
 On peut également saisir une mesure précise (en millimètre) à l'aide du clavier.
 
-![--redimensionner forme coté--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad redimensionner objet x.PNG)
+![--redimensionner forme coté--](outils/img/tinkercad/tinkercad redimensionner objet x.png)
 
-![--redimensionner forme angle--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad redimensionner objet xy.PNG)
+![--redimensionner forme angle--](outils/img/tinkercad/tinkercad redimensionner objet xy.png)
 
-![--redimensionner forme z--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad redimensionner objet z.PNG)
+![--redimensionner forme z--](outils/img/tinkercad/tinkercad redimensionner objet z.png)
 
  
 
@@ -84,13 +84,13 @@ Pour  former des formes plus complexes que celles de bases on peut les  assemble
 
 **Avant** : les formes sont dissociées, pour les regrouper cliquer sur le bouton `regrouper`
 
-![--regrouper formes--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad regrouper avant.PNG)
+![--regrouper formes--](outils/img/tinkercad/tinkercad regrouper avant.PNG)
 
  
 
 **Après** : les formes sont regroupées, pour les dissocier cliquer sur le bouton `dissocier`
 
-![--regrouper apres--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad regrouper apres.PNG)
+![--regrouper apres--](outils/img/tinkercad/tinkercad regrouper apres.png)
 
  
 
@@ -98,19 +98,19 @@ Pour  former des formes plus complexes que celles de bases on peut les  assemble
 
 Le perçage est un des deux état des formes. Pour changer cet état, sélectionner une forme et choisir celui qui convient.
 
-![--percage--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad percage.PNG)
+![--percage--](outils/img/tinkercad/tinkercad percage.png)
 
  
 
 Pour effectuer le perçage il faut regrouper la forme dans laquelle on veut percer et la forme qui perce.
 
-![--perçage avant--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad percage avant.PNG)
+![--perçage avant--](outils/img/tinkercad/tinkercad percage avant.png)
 
  
 
 Et voilà le résultât :
 
-![--perçage après--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad percage apres.PNG)
+![--perçage après--](outils/img/tinkercad/tinkercad percage apres.png)
 
 Si on souhaite annuler le perçage il suffit de dissocier les deux formes.
 
@@ -120,13 +120,13 @@ Si on souhaite annuler le perçage il suffit de dissocier les deux formes.
 
 Afin  de retrouver son travail dans la collection de créations on peut nommer  notre travail en cliquant sur le nom générer aléatoirement en haut à  gauche.
 
-![--nommer projet--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad nommer projet 1.PNG)
+![--nommer projet--](outils/img/tinkercad/tinkercad nommer projet 1.png)
 
  
 
 Choisir un nom descriptif et pas juste un prénom. Ex: "Alexandre cube cylindre"
 
-![--nommer projet--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad nommer projet 2.PNG)
+![--nommer projet--](outils/img/tinkercad/tinkercad nommer projet 2.png)
 
  
 
@@ -134,11 +134,11 @@ Choisir un nom descriptif et pas juste un prénom. Ex: "Alexandre cube cylindre"
 
 Pour pouvoir imprimer sa création il va falloir l'exporter. Choisir le format `.stl` ou `.obj`. Puis le télécharger ou l'ouvrir directement dans Cura.
 
-![--exportation--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/outils/img/tinkercad/tinkercad export.PNG)
+![--exportation--](outils/img/tinkercad/tinkercad export.png)
 
  
 
-Pour savoir comment imprimer sa création voir le [guide d'impression 3D](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils/imprimante3D.html).
+Pour savoir comment imprimer sa création voir le [guide d'impression 3D](outils/imprimante3D.md).
 
  
 
