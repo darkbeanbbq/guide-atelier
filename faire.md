@@ -1,6 +1,6 @@
 # Qu'est-ce qu'on peut faire à l'atelier ?
 
-[Retour à l'accueil](file:///home/darkbean/Téléchargements/guide 0.3.0b html/accueil.html)
+[Retour à l'accueil](index.md)
 
 L'atelier  est libre et accessible à tous. On peut y fabriquer des choses, réparer  des objets, apprendre à dessiner et rencontrer d'autres personnes qui  s'intéressent à la création.
 
@@ -14,9 +14,9 @@ Voici quelques tutoriels de choses que l'on peut y faire, mais les possibilités
 
 ### Colorisation de dessins sur ordinateur
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/faire/colorisation.png)
+![img](imgplaceholder/faire/colorisation.png)
 
 Colorier  avec des crayons et des feutres ça prend du temps, et si on change  d'avis il faut tout recommencer. En scannant notre dessin on peut  ensuite le coloriser dans des logiciels comme GIMP ou Krita, et ça prend  seulement quelques secondes.
 
@@ -31,15 +31,15 @@ Pour coloriser un dessin sur l'ordinateur il faut :
 durée : 30 mintues à 1 heure
 ```
 
-[vers le tuto](file:///home/darkbean/Téléchargements/guide 0.3.0b html/faire/colorisation.html)
+[vers le tuto](faire/colorisation.md)
 
  
 
 ### Dessin animé sur ordinateur
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/faire/img/dessin anime/krita animation splash.png)
+![img](faire/img/dessin anime/krita animation splash.png)
 
 Créer son propre gif animé ou faire des scène de dessin animé ? Comment on fait ?! Et bien c'est par ici !
 
@@ -54,15 +54,15 @@ Il faut :
 durée : 30 minutes à 1 heure
 ```
 
-[vers le tuto](file:///home/darkbean/Téléchargements/guide 0.3.0b html/faire/dessin anime.html)
+[vers le tuto](faire/dessin anime.md)
 
  
 
 ### Fabrication d'autocollants
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/faire/autocollant.jpg)
+![img](imgplaceholder/faire/autocollant.jpg)
 
 Avec  notre découpeuse, nos rouleaux de vinyle adhésif et l'aide du logiciel  Inkscape on peut faire des autocollants. On peut faire ce que l'on veut  du moment qu'on sait le dessiner à la main ou sur l'ordinateur et on a  le choix parmi toutes nos couleurs de vinyles !
 
@@ -79,15 +79,15 @@ Pour faire un autocollant il faut :
 durée : 30 minutes à 1 heure
 ```
 
-[vers le tuto](file:///home/darkbean/Téléchargements/guide 0.3.0b html/faire/autocollant.html)
+[vers le tuto](faire/autocollant.md)
 
  
 
 ### Découpage de papier à la machine
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/faire/decoupe papier.jpg)
+![img](imgplaceholder/faire/decoupe papier.jpg)
 
 La  découpeuse permet aussi de découper du papier. Avec des petites  techniques ingénieuses on peut s'amuser à donner du volume à nos  créations.
 
@@ -103,15 +103,15 @@ Il découper une forme dans du papier il faut :
 durée : 30 minutes à 1 heures
 ```
 
-[vers le tuto](file:///home/darkbean/Téléchargements/guide 0.3.0b html/faire/decoupe papier.html)
+[vers le tuto](faire/decoupe papier.html)
 
  
 
 ### Modélisation 3D
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
 
-![img](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/faire/modelisation 3D.png)
+![img](imgplaceholder/faire/modelisation 3D.png)
 
 Pour  utiliser l'imprimante 3D il faut d'abord modéliser un objet pour que la  machine sache quoi imprimer. En utilisant un logiciel simple et  disponible en ligne comme Tinkercad on va apprendre à faire de la 3D !
 
@@ -125,4 +125,4 @@ Pour faire un modèle en 3D il faut :
 durée : 30 minutes à  1 heure
 ```
 
-[vers le tuto](file:///home/darkbean/Téléchargements/guide 0.3.0b html/faire/modelisation.html)
+[vers le tuto](faire/modelisation.md)
