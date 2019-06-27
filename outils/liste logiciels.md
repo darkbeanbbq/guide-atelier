@@ -1,8 +1,8 @@
 # Liste des logiciels disponible
 
-[retour au guide des outils](file:///home/darkbean/Téléchargements/guide 0.3.0b html/outils.html)
+[retour au guide des outils](outils.md)
 
-![--état de l'écriture--](file:///home/darkbean/T%C3%A9l%C3%A9chargements/guide%200.3.0b%20html/imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
 
  
 
