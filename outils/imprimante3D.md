@@ -4,7 +4,7 @@
 
 ![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
 
-![img](outils/imprimante3D.md)
+![img]
 
 Pour lancer une impression 3D sans problèmes !
 
@@ -69,7 +69,7 @@ Défiler  jusqu'à trouver le nom du ficher à imprimer (sûrement tout en bas d
 
 L'impression commence par une purge d'environ 20 centimètres de plastique.
 
-Si l'impression ne ressemble pas exactement au modèle cela peut être dû aux [options d'impression](outils/imprimante3D.html#header-n21) sélectionnées dans Cura (adhérence au plateau et/ou génération de supports).
+Si l'impression ne ressemble pas exactement au modèle cela peut être dû aux [options d'impression] sélectionnées dans Cura (adhérence au plateau et/ou génération de supports).
 
 Quand l'impression est terminée la tête d'impression retourne à sa position par défault et le plateau d'impression redescend.
 
