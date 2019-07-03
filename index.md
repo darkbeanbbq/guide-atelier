@@ -32,7 +32,7 @@ voir [la programmation de l'atelier](programmation.md) pour la liste de tous les
 
 ## Qu'est-ce qu'on peut faire à l'atelier ?
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guides à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guides à jour*
 
 ![--mosaïque d'images de plusieurs créations différentes](imgplaceholder/faire.jpg)
 
@@ -46,7 +46,7 @@ Après  en avoir fait quelques uns vous aurez une meilleure idée de ce que vous
 
 ## Comment se servir des outils de l'atelier ?
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guides à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guides à jour*
 
 ![--image d'utilisation d'une machine--](imgplaceholder/outils.jpg)
 
@@ -58,7 +58,7 @@ Après  en avoir fait quelques uns vous aurez une meilleure idée de ce que vous
 
 ## Pourquoi et comment documenter ces travaux ?
 
-![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
 
 ![--photo guide ou utilisation do-doc--](imgplaceholder/documentation.jpg)
 
@@ -70,7 +70,7 @@ Comment documenter son travail et faire des tutoriels ?
 
 ## Règles et organisation de l'atelier
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
 
 ![--photo étagère ou photo en train de ranger à plusieurs--](imgplaceholder/organisation.jpg)
 

@@ -2,11 +2,11 @@
 
 [Retour à l'accueil](index.md)
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
 
 L'atelier  est un espace de création accessible à tous. Pour que l'on puisse bien  travailler ensemble il y a quelques consignes à suivre et une  organisation à connaître.
 
- 
+
 
 ## Les horaires
 
@@ -22,9 +22,9 @@ L'atelier de création étant actuellement dans l'espace adolescent il ouvre aux
 
 **samedi** : *atelier*
 
-Pour consulter la programmation des ateliers des mercredi et samedi voir : [programmation de l'atelier](organisation.md).
+Pour consulter la programmation des ateliers des mercredi et samedi voir : [programmation de l'atelier](programmation.md).
 
- 
+
 
 ## Règles
 
@@ -36,7 +36,7 @@ L'espace fonctionne sur un principe simple de partage et d'entraide. **N'hesitez
 
 Et **essayez et réessayez !**  Ça peut  paraitre bête comme règle, mais si vous n'essayez même pas vous n'y  arriverai jamais. Expérimentez et tentez des choses, le but n'est pas  que ce soit parfait mais de faire les choses soit même et de s'amuser.
 
- 
+
 
 ## Organisation de l'espace
 
@@ -46,17 +46,17 @@ Suite au déménagement récent le l'organisation du rangement est en reconstruc
 
 L'affichage sur le mur donne certaines informations comme comment scanner et les ateliers à venir.
 
- 
+
 
 ## Matériel
 
 #### Permanent
 
-2 Ordinateurs (voir la liste [des logiciels disponible](outils/liste logiciels.md))
+2 Ordinateurs (voir la liste [des logiciels disponible](outils/liste-logiciels.md))
 
 Scanner
 
- 
+
 
 #### Intermittent
 

@@ -4,7 +4,7 @@
 
 À  l'atelier il y a de nombreux outils, que ce soit des machines, des  logiciels, du matériel de bricolage ou de simples instruments de  dessins. Tous demandent de bien les connaître pour savoir correctement  les utiliser. Dans ce guide vous trouverez tout ce qu'il vous faut pour  apprendre à vous en servir.
 
- 
+
 
 [TOC]
 
@@ -12,13 +12,13 @@
 
 Les  machines servent souvent à passer d'un format numérique à un résultat  matériel et vice versa. Que ce soit pour numériser un dessin ou imprimer  un modèle 3D, les guide d'utilisation des machines c'est ici !
 
- 
+
 
 ### L'imprimante 3D
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
 
-![--photo ou dessin imprimante 3D--](imgplaceholder/outils/imprimante 3D.jpg)
+![--photo ou dessin imprimante 3D--](imgplaceholder/outils/imprimante3D.jpg)
 
 L'imprimante  3D permet par le depot de couches succésives de filament de plastique  de matérialiser les modèles 3D fait sur l'ordinateur. [En savoir plus : l'impression 3D sur wikipedia](https://fr.wikipedia.org/wiki/Impression_3D)
 
@@ -29,13 +29,13 @@ Pour utiliser l'imprimante 3D il faut :
 - transférer le fichier vers l'imprimante
 - lancer l'impression
 
-[vers le guide](outils/imprimante3D.html)
+[vers le guide](outils/imprimante3D.md)
 
- 
+
 
 ### Le plotter de découpe
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
 
 ![--photo ou dessin plotter--](imgplaceholder/outils/decoupeuse.jpg)
 
@@ -51,11 +51,11 @@ Les étapes pour utiliser la découpeuse :
 
 [vers le guide](outils/decoupeuse.md)
 
- 
+
 
 ### Le scanner
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
 
 ![--photo ou dessin scanner--](imgplaceholder/outils/scanner.jpg)
 
@@ -70,17 +70,17 @@ Voici les étapes pour numériser :
 
 [vers le guide](outils/scanner.md)
 
- 
+
 
 ## Les logiciels
 
 On  l'oublie souvent avec toutes ces machines impréssionantes, mais les  logiciels sont aussi des outils très puissants et ils nous permettent de  faire plein de choses différentes. Ici vous trouverez les guides  d'utilisation des logiciels que nous utilisons à l'atelier, ils sont  tous gratuits donc si vous les trouvez intéréssants vous pouvez les  télécharger chez vous !
 
-Pour savoir quels autres logiciels sont disponibles à l'atelier consulter la [liste des logiciels](outils/liste logiciels.md).
+Pour savoir quels autres logiciels sont disponibles à l'atelier consulter la [liste des logiciels](outils/liste-logiciels.md).
 
 ### Tinkercad
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
 
 ![--image tinkercad--](imgplaceholder/outils/tinkercad.png)
 
@@ -88,26 +88,26 @@ Tinkercad  est un logiciel gratuit de modélisation 3D depuis le navigateur. Il 
 
 [vers le guide](outils/tinkercad.md)
 
- 
+
 
 ### Inkscape
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
 
 ![--image inkscape--](imgplaceholder/outils/inkscape.png)
 
 Inkscape  est un logiciel libre et gratuit qui permet de faire du dessin  vectoriel. Ça veut dire qu'en dessinant avec, l'ordinateur peut  comprendre notre tracé et le traduire en mathématiques (pour qu'on ait  pas à le faire nous-même). Ensuite on peut utiliser ce tracé pour  piloter des machines comme la découpeuse. [En savoir plus : les images vectorielles sur wikipedia](https://fr.wikipedia.org/wiki/Image_vectorielle)
 
- 
+
 
 [vers le guide](outils/vectorisation.md)
 
- 
+
 
 ### Krita
 
-![--état de l'écriture--](imgplaceholder/balise etat rouge rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_rouge.png) *en construction*
 
 ![--image krita--]()
 
-Krita est un logiciel de dessin sur ordinateur qui permet aussi de faire de l'animation. (voir les tutos [colorisation](faire/colorisation.md) et [dessin animé](faire/dessin anime.md) pour plus d'infos)
+Krita est un logiciel de dessin sur ordinateur qui permet aussi de faire de l'animation. (voir les tutos [colorisation](faire/colorisation.md) et [dessin animé](faire/dessin-anime.md) pour plus d'infos)

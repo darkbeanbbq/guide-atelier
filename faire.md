@@ -4,9 +4,9 @@
 
 L'atelier  est libre et accessible à tous. On peut y fabriquer des choses, réparer  des objets, apprendre à dessiner et rencontrer d'autres personnes qui  s'intéressent à la création.
 
-Pour plus d'information sur son fonctionnement voir [les règles et l'organisation de l'atelier](file:///home/darkbean/Téléchargements/guide 0.3.0b html/organisation.html).
+Pour plus d'information sur son fonctionnement voir [les règles et l'organisation de l'atelier](organisation.md).
 
- 
+
 
 Voici quelques tutoriels de choses que l'on peut y faire, mais les possibilités de création ce ne limite pas à cette liste !
 
@@ -14,7 +14,7 @@ Voici quelques tutoriels de choses que l'on peut y faire, mais les possibilités
 
 ### Colorisation de dessins sur ordinateur
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
 
 ![img](imgplaceholder/faire/colorisation.png)
 
@@ -33,13 +33,13 @@ durée : 30 mintues à 1 heure
 
 [vers le tuto](faire/colorisation.md)
 
- 
+
 
 ### Dessin animé sur ordinateur
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
 
-![img](faire/img/dessin anime/krita animation splash.png)
+![img](faire/img/dessin-anime/krita_animation-splash.png)
 
 Créer son propre gif animé ou faire des scène de dessin animé ? Comment on fait ?! Et bien c'est par ici !
 
@@ -56,11 +56,11 @@ durée : 30 minutes à 1 heure
 
 [vers le tuto](faire/dessin anime.md)
 
- 
+
 
 ### Fabrication d'autocollants
 
-![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
 
 ![img](imgplaceholder/faire/autocollant.jpg)
 
@@ -81,13 +81,13 @@ durée : 30 minutes à 1 heure
 
 [vers le tuto](faire/autocollant.md)
 
- 
+
 
 ### Découpage de papier à la machine
 
-![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
 
-![img](imgplaceholder/faire/decoupe papier.jpg)
+![img](imgplaceholder/faire/decoupe_papier.jpg)
 
 La  découpeuse permet aussi de découper du papier. Avec des petites  techniques ingénieuses on peut s'amuser à donner du volume à nos  créations.
 
@@ -103,15 +103,15 @@ Il découper une forme dans du papier il faut :
 durée : 30 minutes à 1 heures
 ```
 
-[vers le tuto](faire/decoupe papier.html)
+[vers le tuto](faire/decoupe-papier.md)
 
- 
+
 
 ### Modélisation 3D
 
-![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
 
-![img](imgplaceholder/faire/modelisation 3D.png)
+![img](imgplaceholder/faire/modelisation3D.png)
 
 Pour  utiliser l'imprimante 3D il faut d'abord modéliser un objet pour que la  machine sache quoi imprimer. En utilisant un logiciel simple et  disponible en ligne comme Tinkercad on va apprendre à faire de la 3D !
 

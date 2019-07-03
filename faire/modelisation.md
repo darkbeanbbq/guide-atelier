@@ -2,9 +2,9 @@
 
 [retour à la liste des tutos](faire.md)
 
-![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
 
-![--image titre fabrication d'autocollants--](imgplaceholder/faire/modelisation 3D.png)
+![--image titre fabrication d'autocollants--](imgplaceholder/faire/modelisation3D.png)
 
 Modéliser de la 3D c'est pas si compliqué !
 
@@ -12,7 +12,7 @@ Modéliser de la 3D c'est pas si compliqué !
 durée : 30 minutes à 1 heure
 ```
 
- 
+
 
 **Les étapes :**
 
@@ -26,7 +26,7 @@ Il suffit d'un idée simple, ne pas partir dans des idées trop compliquées, il
 
 Dans sa tête ou sur une feuille de papier.
 
- 
+
 
 ## La construire à partir des formes dans tinkercad
 

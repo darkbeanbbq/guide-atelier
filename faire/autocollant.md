@@ -2,9 +2,9 @@
 
 [retour à la liste des tutos](faire.md)
 
-![--état de l'écriture--](imgplaceholder/balise etat orange rond.png) *en construction*
+![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
 
-![--image titre fabrication d'autocollants--](imgplaceholder/faire/autocollant 2.jpg)
+![--image titre fabrication d'autocollants--](imgplaceholder/faire/autocollant2.jpg)
 
 Faire son propre autocollant c'est quand même la classe.
 
@@ -12,7 +12,7 @@ Faire son propre autocollant c'est quand même la classe.
 durée : 30 minutes à 1 heure
 ```
 
- 
+
 
 **Les étapes :**
 
@@ -24,7 +24,7 @@ Il suffit d'une idée simple.
 
 ![--photo dessin--]
 
- 
+
 
 ## Numériser son dessin
 
@@ -34,7 +34,7 @@ Si votre dessin a été fait sur ordinateur passer directement à l'étape suiva
 
 ![--image du dessin numérisé--]
 
- 
+
 
 ## Transformer le dessin en tracé
 
@@ -42,11 +42,11 @@ Pour  pouvoir guider la lame de la découpeuse il faut lui donner un chemin  (ou
 
 Pour plus de précisions voir le [guide de vectorisation](outils/vectorisation.md)
 
- 
+
 
 *Les  trois prochaines étapes concernent l'utilisation de la machine et ne  vont être que brièvement expliquées ici. Pour plus de détails voir le guide d'utilisation de la découpeuse.*
 
- 
+
 
 ## Préparation pour la découpe
 
@@ -54,7 +54,7 @@ Importer le fichier `.svg` dans DrawCut et choisir son orientation et ses dimens
 
 Voir [préparation du fichier de découpe](outils/decoupeuse.md)
 
- 
+
 
 ## Les réglages de la machine
 
@@ -64,13 +64,13 @@ Bien positionner la lame dans le coin en bas à droite de la feuille de vinyle. 
 
 ![--photo bouton bouton positionnement lame--]
 
- 
+
 
 Pour  la découpe de vinyle il est recommandé d'utiliser une force de 110 à  120 g (120g si vous être pas sûr). La vitesse de découpe impacte peu la  qualité de la découpe sur du vinyle, mettre au maximum.
 
 Pour plus d'info voir [le guide réglage machine](outils/decoupeuse.md)
 
- 
+
 
 ## La découpe
 
@@ -80,7 +80,7 @@ Une fois que c'est bon on lance la découpe en cliquant sur `découpe sélection
 
 Pour plus d'info voir [le guide découpe](outils/decoupeuse.md)
 
- 
+
 
 ## Récupérer et préparer l'autocollant
 
