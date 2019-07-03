@@ -39,7 +39,7 @@ durée : 30 mintues à 1 heure
 
 ![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
 
-![img](faire/img/dessin-anime/krita_animation-splash.png)
+![img](faire/img/animation/krita_animation-splash.png)
 
 Créer son propre gif animé ou faire des scène de dessin animé ? Comment on fait ?! Et bien c'est par ici !
 
