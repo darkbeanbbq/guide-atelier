@@ -19,20 +19,7 @@ Déroulement d'un projet de modélisation :
 - ajouter des détails
 
  
-
-##Tinkercad
-[Naviguation](#Navigation)
-[Poser des formes et paramètres](#Poser)
-[Déplacer les formes](#Déplacer)
-[Redimensionner](#Redimensionner)
-[Se déplacer (la caméra)](#Se)
-[Les actions de bases](#Les)
-[Regrouper et dissocier](#Regrouper)
-[Perçages](#Perçages)
-[Nommer son travail](#Nommer)
-[Exporter](#Exporter)
-[*Problèmes fréquents :*](#Problèmes)
-[J'ai cliqué sur la forme scribble et l'ordi bug](#J'ai cliqué sur la forme scribble et l'ordi bug)
+[TOC]
 
 ## Naviguation
 
