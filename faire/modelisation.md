@@ -30,4 +30,4 @@ Dans sa tête ou sur une feuille de papier.
 
 ## La construire à partir des formes dans tinkercad
 
-Voir le [gudie de Tinkercad](../outils/tinkercad.md).
+Voir le [guide de Tinkercad](../outils/tinkercad.md).
