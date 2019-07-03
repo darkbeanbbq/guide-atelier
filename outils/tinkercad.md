@@ -32,7 +32,7 @@ Déroulement d'un projet de modélisation :
 [Nommer son travail](#Nommer)
 [Exporter](#Exporter)
 [*Problèmes fréquents :*](#Problèmes)
-[J'ai cliqué sur la forme scribble et l'ordi bug](#J'ai)
+[J'ai cliqué sur la forme scribble et l'ordi bug](#J'ai cliqué sur la forme scribble et l'ordi bug)
 
 ## Naviguation
 
