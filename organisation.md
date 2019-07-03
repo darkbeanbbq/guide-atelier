@@ -34,7 +34,7 @@ L'atelier est un espace où se trouve du matériel mis à disposition de tous po
 
 L'espace fonctionne sur un principe simple de partage et d'entraide. **N'hesitez pas à demander si vous ne savez pas** ou à **aider les autres**  si vous voyez qu'ils sont perdus ou bloqués et que vous savez comment  faire. Si personne ne peut vous apporter de l'aide, recherchez la réponse à  votre question sur internet, vous trouverez surement des éléments de  réponse.
 
-Et **essayez et réessayez !**  Ça peut  paraitre bête comme règle, mais si vous n'essayez même pas vous n'y  arriverai jamais. Expérimentez et tentez des choses, le but n'est pas  que ce soit parfait mais de faire les choses soit même et de s'amuser.
+Et **essayez et réessayez !**  Ça peut  paraitre bête comme règle, mais si vous n'essayez même pas vous n'y  arriverai jamais. Expérimentez et tentez des choses, le but n'est pas  que ce soit parfait mais de faire les choses soi-même et de s'amuser.
 
 
 
