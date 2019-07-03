@@ -32,7 +32,7 @@ Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation]
 
 Importer le fichier `.svg`  dans DrawCut en le glissant-déposant dans l'espace de travail et re-cliquer pour valider.
 
-![gif glisser-deposer fichier dans DrawCut](img/decoupeuse/drawcut_gif-glisser-deposer-fichier.gif)
+![gif glisser-deposer fichier dans DrawCut](img/decoupeuse/drawcut_glisser-deposer-fichier.gif)
 
  
 
