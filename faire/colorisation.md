@@ -4,7 +4,7 @@
 
 ![--état de l'écriture--](../imgplaceholder/balise_verte.png) *à jour*
 
-![--image titre--](../faire/img/colorisation/krita_colorisation-pot-de-peinture.gif)
+![--image titre--](img/colorisation/krita_colorisation-pot-de-peinture.gif)
 
 Colorier son dessin sur ordinateur c'est super simple.
 

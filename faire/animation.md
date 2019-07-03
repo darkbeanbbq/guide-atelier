@@ -4,7 +4,7 @@
 
 ![--état de l'écriture--](../imgplaceholder/balise_verte.png) *à jour*
 
-![img](../faire/img/dessin-anime/krita_animation-loop4.gif)
+![img](img/animation/krita_animation-loop4.gif)
 
 Le dessin animé c'est juste des images qui défilent vite !
 
@@ -26,7 +26,7 @@ Ici nous allons animer une balle qui rebondit en boucle. **Mais n'hésitez pas �
 
 Partir d'une idée simple à animer et faire un croquis des différentes étapes.
 
-![--croquis animation--](../faire/img/dessin-anime/animation-croquis.jpg)
+![--croquis animation--](img/animation/animation-croquis.jpg)
 
 
 
@@ -34,7 +34,7 @@ Partir d'une idée simple à animer et faire un croquis des différentes étapes
 
 Si ce n'est pas déjà fait, passer l'espace de travail de Krita en mode `Animation` (en haut à droite).
 
-![--Krita espace de travail : Animation--](../faire/img/dessin-anime/krita_espace-travail-animation-entoure.png)
+![--Krita espace de travail : Animation--](img/animation/krita_espace-travail-animation-entoure.png)
 
 
 
@@ -42,13 +42,13 @@ Si ce n'est pas déjà fait, passer l'espace de travail de Krita en mode `Animat
 
 Dans  notre cas le sol va rester le même pendant toute l'animation, c'est la  balle qui va changer. On va donc les dessiner sur des claques  différents.
 
-![--dessin calque 2 : sol--](../faire/img/dessin-anime/krita_animation-calque-sol.png)
+![--dessin calque 2 : sol--](img/animation/krita_animation-calque-sol.png)
 
 
 
 On va desormais **ajouter un autre calque** en cliquant sur le bouton `+`. C'est sur celui ci que nous allons animer notre balle. Bien s'assurer que c'est le calque sélectionné.
 
-![--ajouter calque 3--](../faire/img/dessin-anime/krita_animation-calque-ajouter.png)
+![--ajouter calque 3--](img/animation/krita_animation-calque-ajouter.png)
 
 
 
@@ -60,23 +60,23 @@ Pour ajouter une image il faut faire un *clic droit* et sélectionner `Create Bl
 
 Si on a besoin de la déplacer il suffit de maintenir le clic dessus et de la glisser.
 
-![--ajouter une image--](../faire/img/dessin-anime/krita_animation-ajouter-image.png)
+![--ajouter une image--](img/animation/krita_animation-ajouter-image.png)
 
 Dessiner la première image : la balle à son sommet.
 
-![--image 0--](../faire/img/dessin-anime/krita_animation-image0.png)
+![--image 0--](img/animation/krita_animation-image0.png)
 
 
 
 On  va créer la deuxième image clé : l'impacte de la balle sur le sol. Ça  n'arrive pas directement après la première image, alors on se donne de  la place et on la crée un peu plus loin.
 
-![--image 9 timeline--](../faire/img/dessin-anime/krita_animation-image9-timeline.png)
+![--image 9 timeline--](img/animation/krita_animation-image9-timeline.png)
 
 
 
 Activer la pelure d'oignon (ampoule allumée) dans la *timeline*.
 
-![--activer pelure d'oignon--](../faire/img/dessin-anime/krita_animation-image9-oignon.png)
+![--activer pelure d'oignon--](img/animation/krita_animation-image9-oignon.png)
 
 
 
@@ -84,17 +84,17 @@ La **pelure d'oignon** est le nom que l'on donne à cette option qui nous **perm
 
 Ici ça nous permet de pouvoir bien positionner l'image de l'impacte directement sous l'image du sommet.
 
-![--image 9--](../faire/img/dessin-anime/krita_animation-image9.png)
+![--image 9--](img/animation/krita_animation-image9.png)
 
 
 
 Pour  terminer ce premier passage de création d'images clées nous allons  dessiner la dernière image : le moment juste avant que la balle  atteingre son sommet.
 
-![--création image 17 dans la timeline--](../faire/img/dessin-anime/krita_animation-image17-timeline.png)
+![--création image 17 dans la timeline--](img/animation/krita_animation-image17-timeline.png)
 
 
 
-![--image 17--](../faire/img/dessin-anime/krita_animation-image17.png)
+![--image 17--](img/animation/krita_animation-image17.png)
 
 
 
@@ -102,19 +102,19 @@ On va donc pouvoir voir à quoi ressemble l'animation pour le moment. Dans le mo
 
 Pour cet exemple nous allons mettre 18.
 
-![--animation fin--](../faire/img/dessin-anime/krita_animation-derniere-image.gif)
+![--animation fin--](img/animation/krita_animation-derniere-image.gif)
 
 
 
 Désactiver la pelure d'oignon et jouer l'animation en cliquant sur le bouton *play* afin de voir le premier résultat.
 
-![--premier play animation--](../faire/img/dessin-anime/krita_animation-loop1.gif)
+![--premier play animation--](img/animation/krita_animation-loop1.gif)
 
 
 
 Réactiver la pelure d'oignon et insérer des images supplémetaires
 
-![--image 4--](../faire/img/dessin-anime/krita_animation-image4.png)
+![--image 4--](img/animation/krita_animation-image4.png)
 
 
 
@@ -122,13 +122,13 @@ Si besoin paramètrer la pelure d'oignon en cliquant sur le bouton oignon en bas
 
 On peut choisir le nombre, la couleur et l'opacité des images qu'on veut voit avant et après l'image sélectionnée.
 
-![--options de pelure d'oignon--](../faire/img/dessin-anime/krita_animation-image4-options-oignon.png)
+![--options de pelure d'oignon--](img/animation/krita_animation-image4-options-oignon.png)
 
 
 
 Après  avoir ajouté une autre image avant l'impact et une après le rebond on a  désormais une belle petite animation à partir de ces 6 images.
 
-![--animation 2--](../faire/img/dessin-anime/krita_animation-loop2.gif)
+![--animation 2--](img/animation/krita_animation-loop2.gif)
 
 
 
@@ -140,17 +140,17 @@ Cette étape est plus simple que la précédente  car l'essentiel est déjà des
 
 
 
-![--images intermédiaires--](../faire/img/dessin-anime/krita_animation-images-intermediaires.png)
+![--images intermédiaires--](img/animation/krita_animation-images-intermediaires.png)
 
 
 
 Voici  en bleu les images clées et en orange les images intermédiares pour  avoir une meilleur idée de ce qu'on a ajouté. On peut ensuite les  déplacées ou les ajuster voir même refaire les dessins pour un meilleur  résultat lors de l'animation.
 
-![--images intermédiaires timeline--](../faire/img/dessin-anime/krita_animation-images-intermediaires-timeline.png)
+![--images intermédiaires timeline--](img/animation/krita_animation-images-intermediaires-timeline.png)
 
 
 
-![--animation 3--](../faire/img/dessin-anime/krita_animation-loop3.gif)
+![--animation 3--](img/animation/krita_animation-loop3.gif)
 
 
 
@@ -160,7 +160,7 @@ Une fois satisfait de son animation on peut y ajouter de la couleur ou des déta
 
 Pour cette animation de rebond ce serait bien d'avoir un 'splash' lors de l'impacte.
 
-![--séquence d'image animation splash--](../faire/img/dessin-anime/krita_animation-splash.png)
+![--séquence d'image animation splash--](img/animation/krita_animation-splash.png)
 
 
 
@@ -170,7 +170,7 @@ Il  y a d'autres détails que l'on peut essayer comme des lignes de vitesse  (lo
 
 
 
-![--animation 4--](../faire/img/dessin-anime/krita_animation-loop4.gif)
+![--animation 4--](img/animation/krita_animation-loop4.gif)
 
 
 

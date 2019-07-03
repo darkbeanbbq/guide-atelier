@@ -8,7 +8,7 @@
 
 Tinkercad  est un logiciel de modélisation 3D simple.  Avec des formes basiques  qu'on va pouvoir assembler pour construire des formes plus complexe.
 
- 
+
 
 Déroulement d'un projet de modélisation :
 
@@ -18,7 +18,7 @@ Déroulement d'un projet de modélisation :
 - modifier et ajuster
 - ajouter des détails
 
- 
+
 [TOC]
 
 ## Naviguation
@@ -29,13 +29,13 @@ Pour poser une forme sur le plan de construction il suffit d'aller dans le menu 
 
 ![--poser une forme--](img/tinkercad/tinkercad_poser-objet.png)
 
- 
+
 
 En  la selectionnant on aperçoit ses paramètres que l'on peut modifier si  on le souhaite. (C'est n'est souvent pas nécessaire tant qu'on a pas  compris les bases du logiciel)
 
 ![--paramètres de forme--](img/tinkercad/tinkercad_parametres-objet.png)
 
- 
+
 
 ### Déplacer les formes
 
@@ -43,13 +43,13 @@ Pour  déplacer une forme sur le plan de construction, de gauche et à droite  (
 
 ![--deplacer forme X et Y--](img/tinkercad/tinkercad_deplacer-objet-xy.png)
 
- 
+
 
 Pour la déplacer de haut en bas (axe Z), sélectionner la petite flèche noir :
 
 ![--déplacer objet Z--](img/tinkercad/tinkercad_deplacer-objet-z.png)
 
- 
+
 
 ### Redimensionner
 
@@ -57,13 +57,13 @@ Les  formes que l'on place sur le plan de travail peuvent être  redimensionner.
 
 On peut également saisir une mesure précise (en millimètre) à l'aide du clavier.
 
-![--redimensionner forme coté--](img/tinkercad/tinkercad redimensionner_objet-x.png)
+![--redimensionner forme coté--](img/tinkercad/tinkercad_redimensionner-objet-x.png)
 
-![--redimensionner forme angle--](img/tinkercad/tinkercad redimensionner_objet-xy.png)
+![--redimensionner forme angle--](img/tinkercad/tinkercad_redimensionner-objet-xy.png)
 
 ![--redimensionner forme z--](img/tinkercad/tinkercad_redimensionner-objet-z.png)
 
- 
+
 
 ### Se déplacer (la caméra)
 
@@ -71,7 +71,7 @@ On peut également saisir une mesure précise (en millimètre) à l'aide du clav
 - zoomer et dézoomer = molette de la souris
 - bouger le plan de travail = maintenir le clic de la molette
 
- 
+
 
 ## Les actions de bases
 
@@ -85,13 +85,13 @@ Pour  former des formes plus complexes que celles de bases on peut les  assemble
 
 ![--regrouper formes--](img/tinkercad/tinkercad_regrouper-avant.png)
 
- 
+
 
 **Après** : les formes sont regroupées, pour les dissocier cliquer sur le bouton `dissocier`
 
 ![--regrouper apres--](img/tinkercad/tinkercad_regrouper-apres.png)
 
- 
+
 
 ### Perçages
 
@@ -99,13 +99,13 @@ Le perçage est un des deux état des formes. Pour changer cet état, sélection
 
 ![--percage--](img/tinkercad/tinkercad_percage.png)
 
- 
+
 
 Pour effectuer le perçage il faut regrouper la forme dans laquelle on veut percer et la forme qui perce.
 
 ![--perçage avant--](img/tinkercad/tinkercad_percage-avant.png)
 
- 
+
 
 Et voilà le résultât :
 
@@ -113,7 +113,7 @@ Et voilà le résultât :
 
 Si on souhaite annuler le perçage il suffit de dissocier les deux formes.
 
- 
+
 
 ### Nommer son travail
 
@@ -121,13 +121,13 @@ Afin  de retrouver son travail dans la collection de créations on peut nommer  
 
 ![--nommer projet--](img/tinkercad/tinkercad_nommer-projet1.png)
 
- 
+
 
 Choisir un nom descriptif et pas juste un prénom. Ex: "Alexandre cube cylindre"
 
 ![--nommer projet--](img/tinkercad/tinkercad_nommer-projet2.png)
 
- 
+
 
 ### Exporter
 
@@ -135,11 +135,11 @@ Pour pouvoir imprimer sa création il va falloir l'exporter. Choisir le format `
 
 ![--exportation--](img/tinkercad/tinkercad_export.png)
 
- 
+
 
 Pour savoir comment imprimer sa création voir le [guide d'impression 3D](imprimante3D.md).
 
- 
+
 
 ### *Problèmes fréquents :*
 
