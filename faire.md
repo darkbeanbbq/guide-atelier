@@ -54,7 +54,7 @@ Il faut :
 durée : 30 minutes à 1 heure
 ```
 
-[vers le tuto](faire/dessin anime.md)
+[vers le tuto](faire/animation.md)
 
 
 
