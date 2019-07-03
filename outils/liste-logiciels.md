@@ -2,9 +2,9 @@
 
 [retour au guide des outils](outils.md)
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *à jour*
+![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
 
- 
+
 
 Cette  liste sert à voir les différents logiciels que l'on peut trouver sur  les ordinateurs de l'atelier de création. Nous faisons en sorte  d'utiliser un maximum de logiciels libre (gratuit et open source) pour  que vous puissiez les télécharger et les réutiliser chez vous.
 
@@ -12,7 +12,7 @@ Tout les logiciels cités ci-dessous sont libre à moins que le contraire soit p
 
 Pour en savoir plus : voir [le logiciel libre sur wikipedia](https://fr.wikipedia.org/wiki/Logiciel_libre).
 
- 
+
 
 ## Création graphique
 
@@ -24,7 +24,7 @@ Pour en savoir plus : voir [le logiciel libre sur wikipedia](https://fr.wikipedi
 
 [Scribus](https://scribus.fr/) - Mise en page de documents.
 
- 
+
 
 ## Modelisation 3D
 
@@ -34,7 +34,7 @@ Pour en savoir plus : voir [le logiciel libre sur wikipedia](https://fr.wikipedi
 
 [Tinkercad](https://www.tinkercad.com/) (gratuit mais pas libre) - Modelisation 3D à partir de formes simples. (**voir guide tinkercad et tuto modelisation**)
 
- 
+
 
 ## Programmation
 
@@ -44,19 +44,19 @@ Pour en savoir plus : voir [le logiciel libre sur wikipedia](https://fr.wikipedi
 
 [Arduino](https://www.arduino.cc/) - Micro-controller pour construction de projets d'électronique.
 
- 
+
 
 ## Navigation Web
 
 [Firefox](https://www.mozilla.org/fr/firefox/) - Navigateur de Mozilla
 
- 
+
 
 ## Audio
 
 [Audacity](https://audacity.fr/) - Logiciel de manipulation de bandes son.
 
- 
+
 
 ## Machines
 
