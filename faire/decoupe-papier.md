@@ -26,7 +26,7 @@ Il suffit d'une idée simple.
 
 ## Préparer son tracé
 
-Scanner son dessin si besoin (voir le [guide du scanner](outils/scanner.md)) et utiliser Inkscape pour convertir son dessin en tracé (voir le [guide de vectorisation](outils/vectorisation.md)).
+Scanner son dessin si besoin (voir le [guide du scanner](../outils/scanner.md)) et utiliser Inkscape pour convertir son dessin en tracé (voir le [guide de vectorisation](../outils/vectorisation.md)).
 
 Pour que l'on ne découpe pas entièrment notre dessin et faire un confetti géant. **Il faut utiliser une technique spéciale** qui consiste à ne pas découper à un endroit pour que notre forme reste accrochée au reste de la feuille.
 
@@ -34,13 +34,13 @@ Pour que l'on ne découpe pas entièrment notre dessin et faire un confetti géa
 
 ## Les réglages de la machine
 
-Pour plus d'info voir le [guide de la découpeuse](outils/decoupeuse.md)
+Pour plus d'info voir le [guide de la découpeuse](../outils/decoupeuse.md)
 
 
 
 ## La découpe
 
-Pour plus d'info voir le [guide de la découpeuse](outils/decoupeuse.md)
+Pour plus d'info voir le [guide de la découpeuse](../outils/decoupeuse.md)
 
 
 
