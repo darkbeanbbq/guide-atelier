@@ -4,7 +4,7 @@
 
 ![--état de l'écriture--](../imgplaceholder/balise_orange.png) *en construction*
 
-![--image titre fabrication d'autocollants--](../imgplaceholder/faire/decoupe-papier.jpg)
+![--image titre fabrication d'autocollants--](../imgplaceholder/faire/decoupe_papier.jpg)
 
 Donner du volume à son dessin en utilisant la découpeuse !
 
