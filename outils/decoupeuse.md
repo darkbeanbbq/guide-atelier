@@ -2,9 +2,9 @@
 
 [retour au guide des outils](outils.md)
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](../imgplaceholder/balise etat vert rond.png) *guide à jour*
 
-![img](outils/decoupeuse.md)
+![img]
 
 Tout pour savoir comment utiliser la découpeuse !
 
@@ -22,7 +22,7 @@ Tout pour savoir comment utiliser la découpeuse !
 
  
 
-Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation](outils/vectorisation.md).
+Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation](vectorisation.md).
 
  
 
@@ -32,7 +32,7 @@ Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation]
 
 Importer le fichier `.svg`  dans DrawCut en le glissant-déposant dans l'espace de travail et re-cliquer pour valider.
 
-![gif glisser-deposer fichier dans DrawCut](outils/img/decoupeuse/drawcut gif glisser deposer fichier.gif)
+![gif glisser-deposer fichier dans DrawCut](img/decoupeuse/drawcut_gif-glisser-deposer-fichier.gif)
 
  
 
@@ -42,13 +42,13 @@ Importer le fichier `.svg`  dans DrawCut en le glissant-déposant dans l'espace 
 
 Sélectionner le contenu à découper et définir sa dimension en millimètres dans la barre de menu.
 
-![dimension dans interface DrawCut](outils/img/decoupeuse/decoupeuse drawcut dimension.png)
+![dimension dans interface DrawCut](img/decoupeuse/drawcut_dimension.png)
 
  
 
 Ou redimensionner directement en utilisant le curseur. Bien retenir les dimensions.
 
-![gif dimension](outils/img/decoupeuse/drawcut gif dimension.gif)
+![gif dimension](img/decoupeuse/drawcut_dimension.gif)
 
  
 
@@ -56,9 +56,9 @@ Ou redimensionner directement en utilisant le curseur. Bien retenir les dimensio
 
 Modifier son orientation si besoin.
 
-![orientation dans interface DrawCut](outils/img/decoupeuse/decoupeuse drawcut rotation.png)
+![orientation dans interface DrawCut](img/decoupeuse/drawcut_rotation.png)
 
-![gif rotation fichier](outils/img/decoupeuse/drawcut gif rotation.gif)
+![gif rotation fichier](img/decoupeuse/drawcut_rotation.gif)
 
  
 
@@ -68,7 +68,7 @@ Une fois le fichier bien préparé il reste encore quelques étapes avant de lan
 
 Il  faut s'assurer que tout les réglages au niveau de la machine soit fait  en fonction du type de découpe que l'on souhaite faire : calage du  médium à découper, force et vitesse de découpe et le positionnement de  la lame.
 
-![interface du decoupeuse Secabo C30 IV](outils/img/decoupeuse/decoupeuse interface.jpg)
+![interface du decoupeuse Secabo C30 IV](img/decoupeuse/decoupeuse_interface.jpg)
 
  
 
@@ -87,7 +87,7 @@ Tirer le levier vers le haut et insérer le morceau de vinyle. Placer le de mani
 
 Quand tout est bien calé, redescendre le levier pour bloquer le vinyle en place.
 
-![calage sous les rouleaux](outils/img/decoupeuse/decoupeuse rouleaux.jpg)
+![calage sous les rouleaux](img/decoupeuse/decoupeuse_rouleaux.jpg)
 
  
 
@@ -134,13 +134,13 @@ Si il y a des problèmes lors de la découpe du papier, réajuster les paramètr
 
 La  découpe du fichier va partir de son coin inférieur droit, ainsi il faut  positionner la lame sur le coin inféreur droit du vinyle ou de la  feuille.
 
-![lame dans le coin du vinyle](outils/img/decoupeuse/decoupeuse positionnement lame.jpg)
+![lame dans le coin du vinyle](img/decoupeuse/decoupeuse_positionnement-lame.jpg)
 
  
 
 Appuyer sur le bouton `On/Off Line` et utiliser les 4 boutons-flèches pour positionner la lame. Appuyer sur `Enter` pour valider.
 
-![bouton positionnement lame](outils/img/decoupeuse/decoupeuse move00.jpg)
+![bouton positionnement lame](img/decoupeuse/decoupeuse_move00.jpg)
 
  
 
