@@ -14,9 +14,9 @@ mais aussi pour enregistrer un moment à partager ("aujourd'hui on a fait ceci, 
 
 
 
-En fonction de qui va être amener à recevoir (lire/regarder/écouter) la documentation on documente (écrit, parle, filme..) différemment. 
+En fonction de qui va être amener à recevoir (lire/regarder/écouter) la documentation on documente (écrit, parle, filme..) différemment.
 
-Il faut répondre à : Qui est mon public ? Qu'est ce que je cherche à transmettre ? 
+Il faut répondre à : Qui est mon public ? Qu'est ce que je cherche à transmettre ?
 
 
 
@@ -52,13 +52,8 @@ enregistrer des images/sons/vidéos
 
 prendre des captures d'écran
 
-prendre des captures d'écran sous forme de gif/vidéo
+prendre des captures vidéo d'écran en gif
 
 #### modification
 
 modifier une image (resize, crop, etc.)
-
-
-
-
-
