@@ -46,38 +46,28 @@ mercredi 25 juin - Atelier minecraft (Julien et peut-être François)
 
 ~~samedi 29 juin~~ - ateliers PSES
 
-mercredi 3 juillet
 
-samedi 6 juillet
+VACANCES D'ÉTÉ
 
-mercredi 10 juillet
+mercredi 10 juillet -
 
-samedi 13 juillet
 
-mercredi 17 juillet
+mercredi 17 juillet -
 
-samedi 20 juillet
 
-mercredi 24 juillet
+mercredi 24 juillet -
 
-samedi 27 juillet
 
-mercredi 31 juillet
+mercredi 31 juillet -
 
-amedi 3 aout
 
-mercredi 7 aout
+mercredi 7 aout -
 
-amedi 10 aout
 
-mercredi 14 aout
+~~mercredi 14 aout~~
 
-samedi 17 aout
 
-mercredi 20 aout
+mercredi 20 aout -
 
-samedi 24 aout
 
-mercredi 28 aout
-
-samedi 31 aout
+mercredi 28 aout -
