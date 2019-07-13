@@ -49,25 +49,25 @@ mercredi 25 juin - Atelier minecraft (Julien et peut-être François)
 
 VACANCES D'ÉTÉ
 
-mercredi 10 juillet -
+mercredi 10 juillet - Atelier bande dessinée
 
 
-mercredi 17 juillet -
+mercredi 17 juillet - Création de cartes et posters
 
 
-mercredi 24 juillet -
+mercredi 24 juillet - Construction de fusées
 
 
-mercredi 31 juillet -
+mercredi 31 juillet - Autoportrait numérique
 
 
-mercredi 7 aout -
+mercredi 7 aout - Atelier broderie en famille
 
 
 ~~mercredi 14 aout~~
 
 
-mercredi 20 aout -
+mercredi 20 aout - Atelier musique sur ordinateur
 
 
-mercredi 28 aout -
+mercredi 28 aout - Stop motion : faire un dessin animé avec du papier
