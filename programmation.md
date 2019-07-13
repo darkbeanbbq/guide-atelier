@@ -52,10 +52,10 @@ VACANCES D'ÉTÉ
 mercredi 10 juillet - Atelier bande dessinée
 
 
-mercredi 17 juillet - Création de cartes et posters
+mercredi 17 juillet - Création de cartes et posters en série
 
 
-mercredi 24 juillet - Construction de fusées
+mercredi 24 juillet - Construction de fusées dans un jeu vidéo
 
 
 mercredi 31 juillet - Autoportrait numérique
@@ -67,7 +67,7 @@ mercredi 7 aout - Atelier broderie en famille
 ~~mercredi 14 aout~~
 
 
-mercredi 20 aout - Atelier musique sur ordinateur
+mercredi 20 aout - Création musicale sur ordinateur
 
 
 mercredi 28 aout - Stop motion : faire un dessin animé avec du papier
