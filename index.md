@@ -13,8 +13,6 @@ Bienvenu sur le guide de l'atelier de création de la médiathèque !
 **Prochaines activités à l'atelier :**
 
 ```
-mercredi 17 juillet - Création de cartes et posters en série
-
 mercredi 24 juillet - Construction de fusées dans un jeu vidéo
 
 mercredi 31 juillet - Autoportrait numérique
@@ -22,6 +20,8 @@ mercredi 31 juillet - Autoportrait numérique
 mercredi 07 août - Atelier broderie en famille
 
 mercredi 20 août - Création musicale sur ordinateur
+
+mercredi 28 août - Stop motion: faire un dessin animé avec du papier
 ```
 
 
