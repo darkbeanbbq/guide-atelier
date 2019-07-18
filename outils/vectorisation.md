@@ -16,9 +16,9 @@ Glisser-déposer l'image sur la plan de travail ou l'importer via `ficher > impo
 
 Une fenêtre apparait, cliquer sur valider.
 
-![--importation image--](img/inkscape/inkscape importation.png)
+![--importation image--](img/inkscape/inkscape_importation.png)
 
-![--importation--](img/inkscape/inkscape importation2.png)
+![--importation--](img/inkscape/inkscape_importation2.png)
 
 
 
@@ -26,19 +26,19 @@ Une fenêtre apparait, cliquer sur valider.
 
 Sélectionner l'image à vectoriser et aller dans `Chemin` puis `Vectoriser un objet matriciel...` (qui se traduit en "transformer une image faite de pixels en courbes").
 
-![--vectorisation fenêtre--](img/inkscape/inkscape vectorisation 1.png)
+![--vectorisation fenêtre--](img/inkscape/inkscape_vectorisation1.png)
 
 
 
 Une fenêtre apparait. Il se peut qu'on ne voit rien comme ci-dessus.
 
-![--vectorisation fenêtre--](img/inkscape/inkscape vectorisation 2.png)
+![--vectorisation fenêtre--](img/inkscape/inkscape_vectorisation2.png)
 
 
 
 Cocher `Aperçu en direct` ou cliquer sur `Mettre à jour` pour voir un aperçu du résultat de la vectorisation. (Si besoin mettre la fenêtre en plein écran)
 
-![--vectorisation seuil de luminosité--](img/inkscape/inkscape vectorisation 3.png)
+![--vectorisation seuil de luminosité--](img/inkscape/inkscape_vectorisation3.png)
 
 
 
@@ -56,7 +56,7 @@ Le faire varier jusqu'à avoir un résultat qui convient. (souvent entre 0,700 e
 
 **Remarque**  : un dessin bien contrasté (feutre noir sur feuille blanche) donnera de  meilleurs résultats lors de la vectorisation qu'un dessin trop clair  (feutre jaune sur feuille blanche).
 
-![--vectorisation seuil de luminosité--](img/inkscape/inkscape vectorisation 4.png)
+![--vectorisation seuil de luminosité--](img/inkscape/inkscape_vectorisation4.png)
 
 
 
@@ -66,9 +66,9 @@ On  se retrouve avec le tracé vectorisé de notre image et elle en dessous.  Il
 
 Prendre le tracé (en noir) et le déplacer légerement avec l'outil de sélection (touche `F1`) pour pouvoir voir et supprimer l'image d'origine.
 
-![--image vectorisée--](img/inkscape/inkscape vectorisation 5.png)
+![--image vectorisée--](img/inkscape/inkscape_vectorisation5.png)
 
-![--image vectoriée--](img/inkscape/inkscape vectorisation 6.png)
+![--image vectoriée--](img/inkscape/inkscape_vectorisation6.png)
 
 
 
@@ -82,11 +82,11 @@ La vectorisation n'est pas toujours parfaite, c'est pour ça que l'on doit souve
 
 Sélectionner le tracé et utiliser l'outil d'`édition de noeuds` (touche `F2`) pour supprimer les imperfections et éléments vectorisés que nous ne voulons pas.
 
-![--outil edition de noeuds--](img/inkscape/inkscape nettoyage 1.png)
+![--outil edition de noeuds--](img/inkscape/inkscape_nettoyage1.png)
 
 Sélectionner une zone de points et les supprimer avec la touche `suppr` ou `retour arrière`.
 
-![--sélection de zone noeuds à supprimer--](img/inkscape/inkscape nettoyage 2.png)
+![--sélection de zone noeuds à supprimer--](img/inkscape/inkscape_nettoyage2.png)
 
 
 
@@ -94,7 +94,7 @@ Des  'formes étranges' peuvent apparaitre. Ce n'est que le tracé qui tente  de
 
 Si besoin, pour réajuster le tracé, utiliser les petits cercles au bout des lignes pour 'tendre' ou 'détendre' les courbes.
 
-![--suppression noeuds explosion forme--](img/inkscape/inkscape nettoyage 23.png)
+![--suppression noeuds explosion forme--](img/inkscape/inkscape_nettoyage23.png)
 
 
 
