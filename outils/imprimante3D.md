@@ -1,14 +1,14 @@
 # Guide d'utilisation de l'imprimante 3D
 
-[retour au guide des outils](outils.md)
+[retour au guide des outils](../outils.md)
 
-![--état de l'écriture--](imgplaceholder/balise etat vert rond.png) *guide à jour*
+![--état de l'écriture--](../imgplaceholder/balise_verte.png) *guide à jour*
 
 ![img]
 
 Pour lancer une impression 3D sans problèmes !
 
- 
+
 
 [TOC]
 
@@ -20,11 +20,11 @@ Pour lancer une impression 3D sans problèmes !
 - déjà enregistré sur l'ordinateur
 - en exportant un modèle 3D
 
- 
 
-Pour apprendre à modéliser sa propre création à imprimer voir [le tuto de modélisation 3D](faire/modelisation.md).
 
- 
+Pour apprendre à modéliser sa propre création à imprimer voir [le tuto de modélisation 3D](../faire/modelisation.md).
+
+
 
 ## Préparer le fichier dans Cura
 
@@ -32,7 +32,7 @@ Pour apprendre à modéliser sa propre création à imprimer voir [le tuto de mo
 
 Choisir l'échelle de l'objet afin d'obtenir un temps d'impression convenable.
 
-![interface Cura echelle](outils/img/imprimante3d/imp3d cura echelle.png)
+![interface Cura echelle](img/imprimante3d/cura_echelle.png)
 
 Cocher les options nécessaires :
 
@@ -41,17 +41,17 @@ Cocher les options nécessaires :
 
 Quand tout les réglages sont bons on peut transferer le fichier préparé du PC à l'imprimante.
 
- 
+
 
 ## Transférer le fichier sur l'imprimante
 
 Éjecteur la carte mémoire de l'imprimante et l'insérer dans le ordinateur (sur la droite, voir photo)
 
-![photo insertion carte PC](outils/img/imprimante3d/imp3d sd pc 00.jpg)
+![photo insertion carte PC](img/imprimante3d/imp3d_sd-pc.jpg)
 
 Cura va prendre quelques seconde à reconnaitre la carte mémoire. Sélectionner `enregistrer sur la mémoire amovible`, puis `ejecter`.
 
- 
+
 
 ## Lancer l'impression
 
@@ -59,11 +59,11 @@ Remettre la carte mémoire dans l'imprimante.
 
 En utilisant la roue de l'interface, sélectionner `PRINT`.
 
-![interface imprimante 3D](outils/img/imprimante3d/imp3d interface print.jpg)
+![interface imprimante 3D](img/imprimante3d/imp3d_interface-print.jpg)
 
 Défiler  jusqu'à trouver le nom du ficher à imprimer (sûrement tout en bas de la  liste). Le sélectionner pour lancher l'impression.
 
- 
+
 
 # Impression
 
@@ -73,7 +73,7 @@ Si l'impression ne ressemble pas exactement au modèle cela peut être dû aux [
 
 Quand l'impression est terminée la tête d'impression retourne à sa position par défault et le plateau d'impression redescend.
 
- 
+
 
 # Récuperer une impression terminée
 

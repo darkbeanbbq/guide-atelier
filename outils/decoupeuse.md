@@ -1,6 +1,6 @@
 # Guide d'utilisation de la découpeuse
 
-[retour au guide des outils](outils.md)
+[retour au guide des outils](../outils.md)
 
 ![--état de l'écriture--](../imgplaceholder/balise_verte.png) *guide à jour*
 
@@ -8,7 +8,7 @@
 
 Tout pour savoir comment utiliser la découpeuse !
 
- 
+
 
 [TOC]
 
@@ -20,11 +20,11 @@ Tout pour savoir comment utiliser la découpeuse !
 - déjà enregistré sur l'ordinateur
 - en le créant sur un logiciel de dessin vectoriel comme **Inkscape**
 
- 
+
 
 Pour apprendre à vectoriser un dessin sur Inkscape voir [le tuto vectorisation](vectorisation.md).
 
- 
+
 
 ## Importer le fichier dans DrawCut
 
@@ -34,7 +34,7 @@ Importer le fichier `.svg`  dans DrawCut en le glissant-déposant dans l'espace 
 
 ![gif glisser-deposer fichier dans DrawCut](img/decoupeuse/drawcut_glisser-deposer-fichier.gif)
 
- 
+
 
 ## Préparation du fichier pour la découpe
 
@@ -44,13 +44,13 @@ Sélectionner le contenu à découper et définir sa dimension en millimètres d
 
 ![dimension dans interface DrawCut](img/decoupeuse/drawcut_dimension.png)
 
- 
+
 
 Ou redimensionner directement en utilisant le curseur. Bien retenir les dimensions.
 
 ![gif dimension](img/decoupeuse/drawcut_dimension.gif)
 
- 
+
 
 ### Orientation
 
@@ -60,7 +60,7 @@ Modifier son orientation si besoin.
 
 ![gif rotation fichier](img/decoupeuse/drawcut_rotation.gif)
 
- 
+
 
 # Réglages machine
 
@@ -70,13 +70,13 @@ Il  faut s'assurer que tout les réglages au niveau de la machine soit fait  en 
 
 ![interface du decoupeuse Secabo C30 IV](img/decoupeuse/decoupeuse_interface.jpg)
 
- 
+
 
 ## Réglages pour découpe d'autocollant
 
 Choisir une couleur et prendre un morceau de vinyle de dimensions convenables en prévoyant de la marge. *Se servir en priorité dans le classuer à chutes*. Si il n'y a pas de chutes qui conviennent, découper un morceau dans le rouleau approprié en prévoyant de la marge.
 
- 
+
 
 ### Insertion du vinyle et calage
 
@@ -89,7 +89,7 @@ Quand tout est bien calé, redescendre le levier pour bloquer le vinyle en place
 
 ![calage sous les rouleaux](img/decoupeuse/decoupeuse_rouleaux.jpg)
 
- 
+
 
 ### Paramètres de découpe
 
@@ -99,7 +99,7 @@ Pour découper dans le vinyle autocollant il est recommandé d'avoir les paramè
 - Speed : peu importe
 - Lame recommandée : 30°
 
- 
+
 
 ## Réglages pour découper du papier
 
@@ -114,7 +114,7 @@ Tirer  le levier vers le haut et insérer la planche de découpe ainsi que la  f
 
 Quand tout est bien calé, redescendre le levier pour bloquer la feuille et la planche.
 
- 
+
 
 ### Paramètres de découpe
 
@@ -128,7 +128,7 @@ Les paramètres de découpe de la machine varient en fonction de l'épaisseur du
 
 Si il y a des problèmes lors de la découpe du papier, réajuster les paramètres.
 
- 
+
 
 ## Positionnement de la lame
 
@@ -136,13 +136,13 @@ La  découpe du fichier va partir de son coin inférieur droit, ainsi il faut  p
 
 ![lame dans le coin du vinyle](img/decoupeuse/decoupeuse_positionnement-lame.jpg)
 
- 
+
 
 Appuyer sur le bouton `On/Off Line` et utiliser les 4 boutons-flèches pour positionner la lame. Appuyer sur `Enter` pour valider.
 
 ![bouton positionnement lame](img/decoupeuse/decoupeuse_move00.jpg)
 
- 
+
 
 # La découpe
 
@@ -154,17 +154,17 @@ Afin  de s'assurer que la taille de la zone à découper est bonne et que les  r
 
 ![--photo interface de découpe--]
 
- 
+
 
 Si  tout est bon on peut passer à la découpe, si non on rectifit les  réglages posant problèmes et on reteste la zone jusqu'à ce que ce soit  bon.
 
- 
+
 
 ## Découpe
 
 L'étape la plus facile, mais qui demande d'avoir bien fait les précedente. Il suffit de cliquer sur le bouton `découpe sélectionnée` dans DrawCut pour lancer la découpe.
 
- 
+
 
 # Récupération de la découpe
 
@@ -182,9 +182,9 @@ Une  fois que c'est fait il va falloir appliquer un morceau de film  transfert p
 
 Pour coller l'autocollant il va falloir maroufler pour que l'autocollant colle bien au film de transfert. Retirer *soigneusement*  le film en faisant attention à ce que l'autocollant vienne avec. Une  fois que le film est entièrement retiré avec tout l'autocollant dessus  il ne suffit plus qu'à le coller sur votre support. Le coller en partant  d'un coté à l'autre pour éviter la formation de bulles. Maroufler pour  retirer les bulles et pour sbien coller l'autocollant. Retirer le film  en faisant attention à ce que l'autocollant reste bien coller sur votre  support.
 
- 
 
- 
+
+
 
 # Problèmes fréquents
 
