@@ -118,9 +118,9 @@ Réactiver la pelure d'oignon et insérer des images supplémetaires
 
 
 
-Si besoin paramètrer la pelure d'oignon en cliquant sur le bouton oignon en bas à gauche du menu animation.
+Si besoin, paramètrer la pelure d'oignon en cliquant sur le bouton oignon en bas à gauche du menu animation.
 
-On peut choisir le nombre, la couleur et l'opacité des images qu'on veut voit avant et après l'image sélectionnée.
+On peut choisir le nombre, la couleur et l'opacité des images qu'on veut voir avant et après l'image sélectionnée.
 
 ![--options de pelure d'oignon--](img/animation/krita_animation-image4-options-oignon.png)
 

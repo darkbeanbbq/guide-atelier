@@ -13,15 +13,15 @@ Bienvenu sur le guide de l'atelier de création de la médiathèque !
 **Prochaines activités à l'atelier :**
 
 ```
-samedi 4 mai - dessin animé avec Krita
+mercredi 17 juillet - Création de cartes et posters en série
 
-mercredi 8 mai - jour férier : médiathèque fermée
+mercredi 24 juillet - Construction de fusées dans un jeu vidéo
 
-samedi 11 mai -
+mercredi 31 juillet - Autoportrait numérique
 
-mercredi 15 mai -
+mercredi 07 août - Atelier broderie en famille
 
-samedi 18 mai -
+mercredi 20 août - Création musicale sur ordinateur
 ```
 
 
