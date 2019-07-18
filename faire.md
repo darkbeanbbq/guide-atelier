@@ -2,7 +2,7 @@
 
 [Retour à l'accueil](index.md)
 
-L'atelier  est libre et accessible à tous. On peut y fabriquer des choses, réparer  des objets, apprendre à dessiner et rencontrer d'autres personnes qui  s'intéressent à la création.
+L'atelier  est libre et accessible à tous. On peut y fabriquer des choses, réparer des objets, apprendre à dessiner et rencontrer d'autres personnes qui  s'intéressent à la création.
 
 Pour plus d'information sur son fonctionnement voir [les règles et l'organisation de l'atelier](organisation.md).
 
@@ -18,7 +18,7 @@ Voici quelques tutoriels de choses que l'on peut y faire, mais les possibilités
 
 ![img](imgplaceholder/faire/colorisation.png)
 
-Colorier  avec des crayons et des feutres ça prend du temps, et si on change  d'avis il faut tout recommencer. En scannant notre dessin on peut  ensuite le coloriser dans des logiciels comme GIMP ou Krita, et ça prend  seulement quelques secondes.
+Colorier  avec des crayons et des feutres ça prend du temps, et si on change d'avis il faut tout recommencer. En scannant notre dessin on peut  ensuite le coloriser dans des logiciels comme GIMP ou Krita, et ça prend  seulement quelques secondes.
 
 Pour coloriser un dessin sur l'ordinateur il faut :
 
@@ -64,7 +64,7 @@ durée : 30 minutes à 1 heure
 
 ![img](imgplaceholder/faire/autocollant.jpg)
 
-Avec  notre découpeuse, nos rouleaux de vinyle adhésif et l'aide du logiciel  Inkscape on peut faire des autocollants. On peut faire ce que l'on veut  du moment qu'on sait le dessiner à la main ou sur l'ordinateur et on a  le choix parmi toutes nos couleurs de vinyles !
+Avec  notre découpeuse, nos rouleaux de vinyle adhésif et l'aide du logiciel Inkscape on peut faire des autocollants. On peut faire ce que l'on veut  du moment qu'on sait le dessiner à la main ou sur l'ordinateur et on a  le choix parmi toutes nos couleurs de vinyles !
 
 Pour faire un autocollant il faut :
 
@@ -89,7 +89,7 @@ durée : 30 minutes à 1 heure
 
 ![img](imgplaceholder/faire/decoupe_papier.jpg)
 
-La  découpeuse permet aussi de découper du papier. Avec des petites  techniques ingénieuses on peut s'amuser à donner du volume à nos  créations.
+La  découpeuse permet aussi de découper du papier. Avec des petites techniques ingénieuses on peut s'amuser à donner du volume à nos créations.
 
 Il découper une forme dans du papier il faut :
 
