@@ -1,4 +1,4 @@
-![--image titre du guide--](imgplaceholder/titre_guide.png)
+![--image titre du guide--](imgplaceholder/titre_latelier.png)
 
 
 
