@@ -8,7 +8,7 @@ Bienvenu sur le guide de l'atelier de création de la médiathèque !
 
 **Le guide est en construction constante**, il est amené à changer et à grandir avec le temps. Vous pouvez suivre son développement et voir les futurs révisions sur la [feuille de route](roadmap.md).
 
-
+---
 
 **Prochaines activités à l'atelier :**
 
@@ -28,6 +28,7 @@ mercredi 28 août - Stop motion: faire un dessin animé avec du papier
 
 voir [la programmation de l'atelier](programmation.md) pour la liste de tous les prochains ateliers à venir.
 
+---
 
 
 ## Qu'est-ce qu'on peut faire à l'atelier ?
@@ -42,7 +43,7 @@ Après  en avoir fait quelques uns vous aurez une meilleure idée de ce que vous
 
 [vers les tutos](faire.md)
 
-
+---
 
 ## Comment se servir des outils de l'atelier ?
 
@@ -54,7 +55,7 @@ Après  en avoir fait quelques uns vous aurez une meilleure idée de ce que vous
 
 [vers le guide des outils](outils.md)
 
-
+---
 
 ## Pourquoi et comment documenter ces travaux ?
 
@@ -66,7 +67,7 @@ Comment documenter son travail et faire des tutoriels ?
 
 [vers la page documentation](documentation.md)
 
-
+---
 
 ## Règles et organisation de l'atelier
 
@@ -78,6 +79,6 @@ Comment documenter son travail et faire des tutoriels ?
 
 [vers les règles et l'organisation de l'atelier](organisation.md)
 
-
+---
 
 *-  guide maintenu par Alexandre Lejeune  -*
