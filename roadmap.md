@@ -56,35 +56,45 @@ publié le 4 mai`
 - *intégration des nouvelles parties avec les anciennes*
 - ~~si possible publier en ligne via serveur FTP (si non, pour la 0.3.1)~~
 
-## 0.3.1 : corrections et complétion
+## 0.3.1 : corrections, migration et complétion
 
-`objectif : fin mai`
+`objectif : juillet`
 
-- revoir tous les petits bugs
-  
+- ~~migration du projet sur github~~
+
+- ~~revoir tous les petits bugs~~
+
   - les blocs de code (backtick) passés en cadres de code (triple backtick)
-  
-  - les liens à revoir
-    
-    - uniformiser les noms des formats (.PNG en .png) pour le bon affichage des images
-    
-    - relatifs et absolues
 
-- revoir les textes et les images
-  
-  - images des grandes parties
-  - (decoupeuse) images interface de decoupe drawcut + préparation de l'autocollant (marouflage)
-  - options supplémentaires du scanner (vitrine entière etc.)
+  - ~~les liens à revoir~~
+
+    - ~~uniformiser les noms des formats (.PNG en .png) pour le bon affichage des images~~
+
+    - ~~relatifs et absolues~~
 
 - terminer les pages incomplètes
-  
   - tuto découpe papier
   - tuto autocollant
   - guide inkscape : vectorisation
 
-## 0.3.2 : patch documentation
+## 0.3.2 : réorganisation
 
-`objectif : fin juin`
+`objectif : fin juillet`
+
+- revoir l'organisation des sous-dossiers images en un seul dossier
+- faire différenciation entre guide d'utilisation (machine et logiciel), tutoriels et fiches ateliers.
+
+- revoir les textes et les images
+  - images des grandes parties
+  - (decoupeuse) images interface de decoupe drawcut + préparation de l'autocollant (marouflage)
+  - options supplémentaires du scanner (vitrine entière etc.)
+
+- création d'un mini blog d'essai
+  - retour sur l'été (PSES, ateliers d'été, etc.)
+
+## 0.4.2 : patch documentation
+
+`objectif : août`
 
 - guide de documentation
   - guide d'utilisation do-doc
@@ -93,7 +103,7 @@ publié le 4 mai`
 - petits tutos supplémentaires
   - faire une rosace
 
-## 0.4.0 : La rentrée de l'atelier
+## 0.5.0 : La rentrée de l'atelier
 
 `objectif : début septembre`
 
@@ -101,14 +111,14 @@ publié le 4 mai`
   - ajouter guide d'entretien de l'imprimante 3D (changement filament, calibrage pateau)
   - guide générale d'Inkscape (interface, les bases, la logique)
   - guide Krita et Gimp (interface, les bases, la logique)
-  - guide zine et reliure
+  - tuto zine et reliure
   - guide et tutos Audacity (Yann)
   - guide et tutos Touch Board (Yann)
 - page portfolio
   - exemples de projets
   - projets réalisés à l'atelier
 
-## 0.4.1
+## 0.?.?
 
 - ajouter guides outils numérique
   - magikavoxel
