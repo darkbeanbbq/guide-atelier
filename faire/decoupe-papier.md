@@ -2,9 +2,9 @@
 
 [retour à la liste des tutos](faire.md)
 
-![--état de l'écriture--](../imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](../img/balise_orange.png) *en construction*
 
-![--image titre fabrication d'autocollants--](../imgplaceholder/faire/decoupe_papier.jpg)
+![--image titre fabrication d'autocollants--](../img/faire/decoupe_papier.jpg)
 
 Donner du volume à son dessin en utilisant la découpeuse !
 

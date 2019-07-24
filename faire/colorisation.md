@@ -2,7 +2,7 @@
 
 [retour à la liste des tutos](faire.md)
 
-![--état de l'écriture--](../imgplaceholder/balise_verte.png) *à jour*
+![--état de l'écriture--](../img/balise_verte.png) *à jour*
 
 ![--image titre--](img/colorisation/krita_colorisation-pot-de-peinture.gif)
 

@@ -2,9 +2,9 @@
 
 [retour à la liste des tutos](faire.md)
 
-![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](img/balise_orange.png) *en construction*
 
-![--image titre fabrication d'autocollants--](imgplaceholder/faire/autocollant2.jpg)
+![--image titre fabrication d'autocollants--](img/faire/autocollant2.jpg)
 
 Faire son propre autocollant c'est quand même la classe.
 
