@@ -2,7 +2,7 @@
 
 [retour au guide des outils](../outils.md)
 
-![--état de l'écriture--](../imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](../img/balise_verte.png) *guide à jour*
 
 ![img]
 

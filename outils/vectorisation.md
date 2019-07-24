@@ -2,7 +2,7 @@
 
 [retour au guide des outils](../outils.md)
 
-![--état de l'écriture--](../imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](../img/balise_orange.png) *en construction*
 
 
 

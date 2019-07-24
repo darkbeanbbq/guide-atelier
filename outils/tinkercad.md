@@ -2,9 +2,9 @@
 
 [retour au guide des outils](../outils.md)
 
-![--état de l'écriture--](../imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](../img/balise_verte.png) *guide à jour*
 
-![--image tinkercad--](../imgplaceholder/outils/tinkercad.png)
+![--image tinkercad--](../img/outils/tinkercad.png)
 
 Tinkercad  est un logiciel de modélisation 3D simple.  Avec des formes basiques  qu'on va pouvoir assembler pour construire des formes plus complexe.
 
