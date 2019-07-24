@@ -14,9 +14,9 @@ Voici quelques tutoriels de choses que l'on peut y faire, mais les possibilités
 
 ### Colorisation de dessins sur ordinateur
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
+![--état de l'écriture--](img/balise_verte.png) *à jour*
 
-![img](imgplaceholder/faire/colorisation.png)
+![img](img/faire/colorisation.png)
 
 Colorier  avec des crayons et des feutres ça prend du temps, et si on change d'avis il faut tout recommencer. En scannant notre dessin on peut  ensuite le coloriser dans des logiciels comme GIMP ou Krita, et ça prend  seulement quelques secondes.
 
@@ -37,7 +37,7 @@ durée : 30 mintues à 1 heure
 
 ### Dessin animé sur ordinateur
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
+![--état de l'écriture--](img/balise_verte.png) *à jour*
 
 ![img](faire/img/animation/krita_animation-splash.png)
 
@@ -60,9 +60,9 @@ durée : 30 minutes à 1 heure
 
 ### Fabrication d'autocollants
 
-![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](img/balise_orange.png) *en construction*
 
-![img](imgplaceholder/faire/autocollant.jpg)
+![img](img/faire/autocollant.jpg)
 
 Avec  notre découpeuse, nos rouleaux de vinyle adhésif et l'aide du logiciel Inkscape on peut faire des autocollants. On peut faire ce que l'on veut  du moment qu'on sait le dessiner à la main ou sur l'ordinateur et on a  le choix parmi toutes nos couleurs de vinyles !
 
@@ -85,9 +85,9 @@ durée : 30 minutes à 1 heure
 
 ### Découpage de papier à la machine
 
-![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](img/balise_orange.png) *en construction*
 
-![img](imgplaceholder/faire/decoupe_papier.jpg)
+![img](img/faire/decoupe_papier.jpg)
 
 La  découpeuse permet aussi de découper du papier. Avec des petites techniques ingénieuses on peut s'amuser à donner du volume à nos créations.
 
@@ -109,9 +109,9 @@ durée : 30 minutes à 1 heures
 
 ### Modélisation 3D
 
-![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](img/balise_orange.png) *en construction*
 
-![img](imgplaceholder/faire/modelisation3D.png)
+![img](img/faire/modelisation3D.png)
 
 Pour  utiliser l'imprimante 3D il faut d'abord modéliser un objet pour que la  machine sache quoi imprimer. En utilisant un logiciel simple et  disponible en ligne comme Tinkercad on va apprendre à faire de la 3D !
 

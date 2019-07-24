@@ -16,9 +16,9 @@ Les  machines servent souvent à passer d'un format numérique à un résultat  
 
 ### L'imprimante 3D
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](img/balise_verte.png) *guide à jour*
 
-![--photo ou dessin imprimante 3D--](imgplaceholder/outils/imprimante3D.jpg)
+![--photo ou dessin imprimante 3D--](img/outils/imprimante3D.jpg)
 
 L'imprimante  3D permet par le depot de couches succésives de filament de plastique  de matérialiser les modèles 3D fait sur l'ordinateur. [En savoir plus : l'impression 3D sur wikipedia](https://fr.wikipedia.org/wiki/Impression_3D)
 
@@ -35,9 +35,9 @@ Pour utiliser l'imprimante 3D il faut :
 
 ### Le plotter de découpe
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](img/balise_verte.png) *guide à jour*
 
-![--photo ou dessin plotter--](imgplaceholder/outils/decoupeuse.jpg)
+![--photo ou dessin plotter--](img/outils/decoupeuse.jpg)
 
 Le  plotter de découpe sert à découper avec précision grâce à l'ordinateur.  On peut s'en servir pour découper du papier ainsi que des rouleaux de  vinyle adhésif pour faire des autocollants. Il suffit de lui fournir un  tracé à suivre avec sa lame et elle se met à découper ! [En savoir plus : la découpe vinyle sur wikipedia](https://fr.wikipedia.org/wiki/Découpe_vinyle)
 
@@ -55,9 +55,9 @@ Les étapes pour utiliser la découpeuse :
 
 ### Le scanner
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](img/balise_verte.png) *guide à jour*
 
-![--photo ou dessin scanner--](imgplaceholder/outils/scanner.jpg)
+![--photo ou dessin scanner--](img/outils/scanner.jpg)
 
 Le  scanner sert à numériser les dessins et les images, c'est à dire les  traduire en pixels pour que l'ordinateur puisse les lire et les  enregistrer.
 
@@ -80,9 +80,9 @@ Pour savoir quels autres logiciels sont disponibles à l'atelier consulter la [l
 
 ### Tinkercad
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](img/balise_verte.png) *guide à jour*
 
-![--image tinkercad--](imgplaceholder/outils/tinkercad.png)
+![--image tinkercad--](img/outils/tinkercad.png)
 
 Tinkercad  est un logiciel gratuit de modélisation 3D depuis le navigateur. Il met  à votre disposition une collection de formes simples à utiliser pour  construire toutes sortes de choses. On peut ensuite exporter les modèle  3D pour les imprimer en 3D.
 
@@ -92,9 +92,9 @@ Tinkercad  est un logiciel gratuit de modélisation 3D depuis le navigateur. Il 
 
 ### Inkscape
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guide à jour*
+![--état de l'écriture--](img/balise_verte.png) *guide à jour*
 
-![--image inkscape--](imgplaceholder/outils/inkscape.png)
+![--image inkscape--](img/outils/inkscape.png)
 
 Inkscape  est un logiciel libre et gratuit qui permet de faire du dessin  vectoriel. Ça veut dire qu'en dessinant avec, l'ordinateur peut  comprendre notre tracé et le traduire en mathématiques (pour qu'on ait  pas à le faire nous-même). Ensuite on peut utiliser ce tracé pour  piloter des machines comme la découpeuse. [En savoir plus : les images vectorielles sur wikipedia](https://fr.wikipedia.org/wiki/Image_vectorielle)
 
@@ -106,7 +106,7 @@ Inkscape  est un logiciel libre et gratuit qui permet de faire du dessin  vector
 
 ### Krita
 
-![--état de l'écriture--](imgplaceholder/balise_rouge.png) *en construction*
+![--état de l'écriture--](img/balise_rouge.png) *en construction*
 
 ![--image krita--]()
 

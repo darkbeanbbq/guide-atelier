@@ -1,4 +1,4 @@
-![--image titre atelier--](imgplaceholder/titre_latelier.png)
+![--image titre atelier--](img/titre_latelier.png)
 
 # Ressources numériques de l'atelier de la Médiathèque de Choisy-le-Roi
 Ceci est le répertoire git du site de l'atelier de création de la Mediathèque de Choisy-le-Roi.

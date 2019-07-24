@@ -2,7 +2,7 @@
 
 [Retour à l'accueil](index.md)
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
+![--état de l'écriture--](img/balise_verte.png) *à jour*
 
 L'atelier  est un espace de création accessible à tous. Pour que l'on puisse bien  travailler ensemble il y a quelques consignes à suivre et une  organisation à connaître.
 

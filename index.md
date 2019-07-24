@@ -1,4 +1,4 @@
-![--image titre du guide--](imgplaceholder/titre_latelier.png)
+![--image titre du guide--](img/titre_latelier.png)
 
 
 
@@ -33,9 +33,9 @@ voir [la programmation de l'atelier](programmation.md) pour la liste de tous les
 
 ## Qu'est-ce qu'on peut faire à l'atelier ?
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guides à jour*
+![--état de l'écriture--](img/balise_verte.png) *guides à jour*
 
-![--mosaïque d'images de plusieurs créations différentes](imgplaceholder/faire.jpg)
+![--mosaïque d'images de plusieurs créations différentes](img/faire.jpg)
 
 **J'ai envie de faire des choses mais j'ai pas d'idée !** Alors voici une liste de choses que l'on peut faire à l'atelier à travers des tutoriels qui vous suivent étapes par étapes.
 
@@ -47,9 +47,9 @@ Après  en avoir fait quelques uns vous aurez une meilleure idée de ce que vous
 
 ## Comment se servir des outils de l'atelier ?
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *guides à jour*
+![--état de l'écriture--](img/balise_verte.png) *guides à jour*
 
-![--image d'utilisation d'une machine--](imgplaceholder/outils.jpg)
+![--image d'utilisation d'une machine--](img/outils.jpg)
 
 **Une imprimante 3D ? Une découpeuse-quoi ?! C'est pas compliqué tout ça ?**  Pas si vous suivez les guides d'utilisation des outils de l'atelier.  Les machines ne seront plus des objets mystérieux qui font peur, mais de  simple outils que l'on utilise pour réaliser ses créations !
 
@@ -59,9 +59,9 @@ Après  en avoir fait quelques uns vous aurez une meilleure idée de ce que vous
 
 ## Pourquoi et comment documenter ces travaux ?
 
-![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](img/balise_orange.png) *en construction*
 
-![--photo guide ou utilisation do-doc--](imgplaceholder/documentation.jpg)
+![--photo guide ou utilisation do-doc--](img/documentation.jpg)
 
 Comment documenter son travail et faire des tutoriels ?
 
@@ -71,9 +71,9 @@ Comment documenter son travail et faire des tutoriels ?
 
 ## Règles et organisation de l'atelier
 
-![--état de l'écriture--](imgplaceholder/balise_verte.png) *à jour*
+![--état de l'écriture--](img/balise_verte.png) *à jour*
 
-![--photo étagère ou photo en train de ranger à plusieurs--](imgplaceholder/organisation.jpg)
+![--photo étagère ou photo en train de ranger à plusieurs--](img/organisation.jpg)
 
 **Comment ça fonctionne l'atelier et où est-ce qu'on range les gommes ?** Dans l'atelier il y a des règles à suivre, que ce soit pour des raisons de sécurité mais aussi pour mieux créer ensemble.
 

@@ -2,7 +2,7 @@
 
 [Retour à l'accueil](index.md)
 
-![--état de l'écriture--](imgplaceholder/balise_orange.png) *en construction*
+![--état de l'écriture--](img/balise_orange.png) *en construction*
 
 La  documentation est une étape primordiale de la création dans un atelier.  C'est une méthode très utile pour partager de l'information. Que ce  soit partager ce que l'on sait faire avec les autres, expliquer comment  les choses fonctionnent ou tout simplement noter ce que l'on a appris  pour pas l'oublier.
 
