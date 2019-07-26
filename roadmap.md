@@ -1,8 +1,8 @@
-# Feuille de route du développement du guide de l'atelier
+# Feuille de route du développement des ressources du médiatelier
 
 [retour à l'accueil](index.md)
 
-La  feuille de route sert à rendre visible les tâches faites et celles  qu'il reste à faire pour la construction du guide de l'atelier.
+La  feuille de route sert à rendre visible les tâches faites et celles qu'il reste à faire pour la construction du site du médiatelier.
 
 #### La syntaxe :
 
@@ -76,6 +76,10 @@ publié le 4 mai`
   - tuto découpe papier
   - tuto autocollant
   - guide inkscape : vectorisation
+  
+- ~~création d'un compte médiathèques sur github~~
+
+- ~~projet renommé "médiatelier"~~
 
 ## 0.3.2 : réorganisation
 
@@ -103,7 +107,7 @@ publié le 4 mai`
 - petits tutos supplémentaires
   - faire une rosace
 
-## 0.5.0 : La rentrée de l'atelier
+## 0.5.0 : La rentrée du médiatelier
 
 `objectif : début septembre`
 
@@ -127,6 +131,6 @@ publié le 4 mai`
 ## 1.0.0 : Non de domaine !
 
 - obtenir une adresse web
-- création du blog de l'atelier
+- création du blog du médiatelier
 - publication des projets réalisés en interne et leurs tutos
 - [toc] en sidebar
