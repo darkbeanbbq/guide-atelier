@@ -2,7 +2,7 @@
 
 
 
-Bienvenu sur le guide de l'atelier de création de la médiathèque !
+Bienvenu sur le guide de l'atelier de la médiathèque !
 
 **Ici vous trouverez tout ce qui concerne l'atelier.**  Son programme, ce qu'on peut y faire à travers des tutoriels, des  guides d'utilisation pour savoir comment se servir des outils, des  conseils pour documenter votre travail et les règles et l'organisation  de l'atelier.
 
