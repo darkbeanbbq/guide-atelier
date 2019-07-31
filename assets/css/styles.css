@@ -1,4 +1,8 @@
 /* import css github pages theme slate */
+---
+---
+
+@import "{{ site.theme }}";
 
 @import "rouge-github";
 
