@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 #forkme_banner {
- background: #ff0000; 
+ background: #ff0000;
+}
+
+p {
+	color: #ff0000;
 }
