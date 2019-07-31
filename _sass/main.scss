@@ -1,8 +1,4 @@
 /* import css github pages theme slate */
----
----
-
-@import "{{ site.theme }}";
 
 @import "rouge-github";
 
@@ -476,5 +472,4 @@ Small Device Styles
     max-width: 320px;
     font-size: 11px;
   }
-
 }
