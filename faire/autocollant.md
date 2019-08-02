@@ -1,10 +1,10 @@
 # Fabrication d'autocollants
 
-[retour à la liste des tutos](faire.md)
+[retour à la liste des tutos](../faire.md)
 
-![--état de l'écriture--](img/balise_orange.png) *en construction*
+![--état de l'écriture--](../img/balise_orange.png) *en construction*
 
-![--image titre fabrication d'autocollants--](img/faire/autocollant2.jpg)
+![--image titre fabrication d'autocollants--](../img/faire/autocollant2.jpg)
 
 Faire son propre autocollant c'est quand même la classe.
 
@@ -28,7 +28,7 @@ Il suffit d'une idée simple.
 
 ## Numériser son dessin
 
-Pour que la machine puisse utiliser notre dessin comme plan pour découper il va falloir d'abord la numériser. (voir le [guide du scanner](outils/scanner.md))
+Pour que la machine puisse utiliser notre dessin comme plan pour découper il va falloir d'abord la numériser. (voir le [guide du scanner](../outils/scanner.md))
 
 Si votre dessin a été fait sur ordinateur passer directement à l'étape suivante.
 
@@ -40,7 +40,7 @@ Si votre dessin a été fait sur ordinateur passer directement à l'étape suiva
 
 Pour  pouvoir guider la lame de la découpeuse il faut lui donner un chemin  (ou tracé) à suivre. Pour cela il faut prendre notre dessin scanné qui  est en pixels et le convertir en courbes, on appele ça la vectorisation.
 
-Pour plus de précisions voir le [guide de vectorisation](,,/outils/vectorisation.md)
+Pour plus de précisions voir le [guide de vectorisation](../outils/vectorisation.md)
 
 
 
