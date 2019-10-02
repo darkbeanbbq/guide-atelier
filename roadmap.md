@@ -58,7 +58,7 @@ publié le 4 mai`
 
 ## 0.3.1 : corrections, migration et complétion
 
-`objectif : juillet`
+`objectif : fin des vacances d'été`
 
 - ~~migration du projet sur github~~
 
@@ -81,24 +81,29 @@ publié le 4 mai`
 
 - ~~projet renommé "médiatelier"~~
 
-## 0.3.2 : réorganisation
+## 0.3.2 : réorganisation et restructuration
 
-`objectif : fin juillet`
+`objectif : fin novembre`
 
+- refaire page d'accueil et renvoyer en priorité vers fiches atelier et tutos
+  - faire différenciation entre guide d'utilisation (machine et logiciel), tutoriels et fiches ateliers.
+  
 - revoir l'organisation des sous-dossiers images en un seul dossier
-- faire différenciation entre guide d'utilisation (machine et logiciel), tutoriels et fiches ateliers.
 
 - revoir les textes et les images
-  - images des grandes parties
-  - (decoupeuse) images interface de decoupe drawcut + préparation de l'autocollant (marouflage)
-  - options supplémentaires du scanner (vitrine entière etc.)
+  - images de la page d'accueil
+  - images titre des articles
+  - compléter article/tutos qui n'ont pas toutes leurs images
+    - (decoupeuse) images interface de decoupe drawcut + préparation de l'autocollant (marouflage)
+    - options supplémentaires du scanner (vitrine entière etc.)
+  
+- revoir theme jekyll
+  - test de publication avec CI
 
-- création d'un mini blog d'essai
-  - retour sur l'été (PSES, ateliers d'été, etc.)
 
 ## 0.4.2 : patch documentation
 
-`objectif : août`
+`objectif : fin décembre`
 
 - guide de documentation
   - guide d'utilisation do-doc
@@ -106,15 +111,17 @@ publié le 4 mai`
   - guide : comment écrire un tuto
 - petits tutos supplémentaires
   - faire une rosace
+  
+- création d'un mini blog
 
-## 0.5.0 : La rentrée du médiatelier
+## 0.5.0 : Catalogue d'ateliers et guides d'outils
 
-`objectif : début septembre`
+`objectif : 2020`
 
-- approfondir guide outils
+- approfondir guides outils
   - ajouter guide d'entretien de l'imprimante 3D (changement filament, calibrage pateau)
   - guide générale d'Inkscape (interface, les bases, la logique)
-  - guide Krita et Gimp (interface, les bases, la logique)
+  - guide généraux Krita et Gimp (interface, les bases, la logique)
   - tuto zine et reliure
   - guide et tutos Audacity (Yann)
   - guide et tutos Touch Board (Yann)
