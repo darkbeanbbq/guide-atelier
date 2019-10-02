@@ -126,7 +126,7 @@ Ici nous allons utiliser les *calques* pour séparer notre dessin, la couleur et
 
 
 
-On  prend un qutre dessin et on utilise le filtre seuil pour avoir une  image en noir et blanc comme plus haut. Comme nous allons pas utiliser  l'outil *pot de peinture* on peut utiliser un dessin avec des formes ouvertes.
+On  prend un autre dessin et on utilise le filtre seuil pour avoir une image en noir et blanc comme plus haut. Comme nous allons pas utiliser l'outil *pot de peinture* on peut utiliser un dessin avec des formes ouvertes.
 
 ![--dessin propre--](img/colorisation/krita_colorisation-dessin-propre2.png)
 
@@ -152,7 +152,7 @@ L'ordre des calques est important. Celui qui est en haut est au dessus, c'est po
 
 
 
-Bien  s'assurer d'avoir le calque "couleur" de sélectionné avant de colorier,  sinon ça colorie sur les autres calques (notre dessin ou le fond).
+Bien s'assurer d'avoir le calque "couleur" de sélectionné avant de colorier, sinon ça colorie sur les autres calques (notre dessin ou le fond).
 
 ![--calque couleur--](img/colorisation/krita_colorisation-calque-couleur.png)
 
