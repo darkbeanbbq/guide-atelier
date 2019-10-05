@@ -1,26 +1,25 @@
 # Fabriquer un photomaton avec un Raspberry Pi
 
+[!] - rédiger rapidement - à revérifier et à corriger - [!]
+
 [[source]](https://learn.adafruit.com/instant-camera-using-raspberry-pi-and-thermal-printer/system-setup)
 
 
 
 Afin de fabriquer un photomation il faut plusieurs éléments : de quoi prendre des photos, de quoi les imprimer et de quoi déclencher le tout.
 
-Pour faire cela tout allons utiliser une webcam ou camera Pi, une imprimante thermique et un bouton. Mais le plus important, pour relier tout ça ensemble, nous allons utiliser un Raspberry Pi.
+Pour faire cela tout allons utiliser une webcam ou une camera Pi, une imprimante thermique et un bouton. Mais le plus important, pour relier tout ça ensemble, nous allons utiliser un Raspberry Pi.
 
 
 
 #### Les composants :
 
 - Un Raspberry Pi
-  
   - Avec un alimentation 5 V et 2 à 3 A
-  
   - Une Carte microSD (2Go minimum)
 - Une Raspberry Pi Cam ou webcam
 - Une Imprimante thermique
   - Les cables ou fils necessaire pour l'alimenter et communiquer avec (dépend du modèle)
-    
   - Des rouleaux de papier thermique
 - Et un bouton poussoir
 
@@ -30,19 +29,13 @@ Pour faire cela tout allons utiliser une webcam ou camera Pi, une imprimante the
 
 - D'un ordinateur avec une connexion internet
 - D'un lecteur de carte SD et un adaptateur microSD vers SD
-
 - Un écran et un cable HDMI
-  
 - Un Clavier et une souris
 - Un cable ethernet ou un accès WiFi (pour le Raspberry Pi, si son modèle le permet)
 - Des cables jumper ou du fil électrique
 
 
-
-
-
 Maitenant qu'on a tout il ne reste plus qu'a s'y mettre et construire notre photomaton.
-
 
 
 ## Préparation et configuration du Raspberry Pi
@@ -129,16 +122,21 @@ Notre image que l'on a nomé photo.jpg se retrouve alors dans le repertoire `/ho
 
 ##### raspistill
 
-description -vf et -hf : vertical flip et horizontal flip (sinon photo = à l'envers)
+description `-vf` et `-hf` : vertical flip et horizontal flip (sinon photo = à l'envers)
 
 
 
 ##### fswebcam
 
---no-banner : pour ne pas avoir la bannière en bas avec la date etc..
+`--no-banner` : pour ne pas avoir la bannière en bas avec la date etc..
 
--r 1280x720 : pour définir la résolution (doit être en adequation avec le format de la webcam sinon sa résolution sera modifier au rapport de forme le plus proche)
+`-r 1280x720` : pour définir la résolution (doit être en adequation avec le format de la webcam sinon sa résolution sera modifiée au rapport de forme le plus proche)
 
+exemple :
+pour prendre une photo à la webcam et la sauvegarder sans la bannière dans *mondossier* il faut écrire :
+```
+fswebcam --nobanner /mondossier/photo.jpg
+```
 
 
 ## L'imprimante
@@ -181,9 +179,9 @@ pour ajouter l'imprimante et la choisir par défaut :
 
 changer la valeur de "baud" en fonction l'imprimante, 9600 ou 19200.
 
-Pour une imprimante USB, changer le nom de l'imprimante à /dev/ttyUSB0
+Pour une imprimante USB, changer le nom de l'imprimante à `/dev/ttyUSB0`
 
-Pour toute autres imprimantes utiliser le nom /dev/ttyAMA0 ou /dev/serial0
+Pour toute autres imprimantes utiliser le nom `/dev/ttyAMA0` ou `/dev/serial0`
 
 
 
@@ -219,12 +217,12 @@ ajout de bouton et autres options, lancement du script au boot et finitions.
 
 ```
 #!/bin/bash
-     
+
 BOUTON=16
-     
+
 # initialisation du GPIO
 gpio -g mode  $BOUTON up
-     
+
 while :
 do
 	# si [le bouton est appuyé]; alors
@@ -257,9 +255,7 @@ sudo nano /etc/rc.local
 Juste avant la dernière ligne "exit 0" écrire la ligne suivante :
 
 ```
-sh /home/pi/zj-58/extras/camera.sh
+sh /home/monscript.sh
 ```
 
 Sauvegarder et quitter l'editeur de texte nano.
-
-
